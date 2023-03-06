@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="mod_n50_task_title3">
+		<text>Сигнал о помощи: поговорить со сталкером</text>
+	</string>
+	<string id="mod_n50_task_descr3">
+		<text>Сталкер попал в засаду слепых псов. От мутантов отбились, можно теперь и узнать, как он да и кто он такой вообще...</text>
+	</string>
+	<string id="mod_n50_task_title2">
+		<text>Сигнал о помощи: убить стаю мутантов</text>
+	</string>
+	<string id="mod_n50_task_descr2">
+		<text>Сталкер попал в засаду слепых псов. Стоит помочь ему отбиться от них.</text>
+	</string>
+	<string id="mod_n50_task_title">
+		<text>Сигнал о помощи: проверить точку</text>
+	</string>
+	<string id="mod_n50_task_descr">
+		<text>Видимо кому-то нужна помощь. Может стоит глянуть...</text>
+	</string>
+
+	<string id="mod_n5_task_title">
+		<text>В пекло, эту Зону: поговорить с Морриган</text>
+	</string>
+	<string id="mod_n5_task_descr">
+		<text>А может к чёрту всё это... В пекло эту Зону и всё остальное! Свалю вместе с Морриган за горизонт. Эх, романтика!</text>
+	</string>
+
+	<string id="mod_n1_kinoteatr_task_title">
+		<text>Странное явление: осмотреть зал</text>
+	</string>
+	<string id="mod_n1_kinoteatr_task_descr">
+		<text>Морриган попросила помочь осмотреть кинотеатр. Стоит начать с зала.</text>
+	</string>
+	<string id="mod_n1_kinoteatr_task_title2">
+		<text>Странное явление: проверить что со сталкером</text>
+	</string>
+	<string id="mod_n1_kinoteatr_task_descr2">
+		<text>Морриган попросила помочь осмотреть кинотеатр. Тут сталкер... Но, кажется ему плохо, нужно помочь ему.</text>
+	</string>
+	<string id="mod_n1_kinoteatr_task_title3">
+		<text>Странное явление: спасти Морриган</text>
+	</string>
+	<string id="mod_n1_kinoteatr_task_descr3">
+		<text>На нас напал контролер. Кажется, Морриган очень плохо. Нужно ей помочь.</text>
+	</string>	
+	<string id="mod_n1_kinoteatr_task_title4">
+		<text>Странное явление: поговорить с Морриган</text>
+	</string>
+	<string id="mod_n1_kinoteatr_task_descr4">
+		<text>Мутант убит. Теперь нужно помочь Морриган.</text>
+	</string>
+	<string id="mod_n1_kinoteatr_task_title5">
+		<text>Странное явление: охранять Морриган</text>
+	</string>
+	<string id="mod_n1_kinoteatr_task_descr5">
+		<text>Морриган ещё что-то хочет найти в кинотеатре... Стоит идти за ней и прикрывать её по возможности.</text>
+	</string>
+	<string id="mod_n1_kinoteatr_task_title6">
+		<text>Странное явление: поговорить с Морриган</text>
+	</string>
+	<string id="mod_n1_kinoteatr_task_descr6">
+		<text>Морриган активировала какую-то аномалию... Нужно узнать что она сделала.</text>
+	</string>
+
+
+	<string id="mod_dva_true_l654_task_title">
+		<text>Поставить точку: покинуть Зону</text>
+	</string>
+	<string id="mod_dva_true_l654_task_descr">
+		<text>Нужно поговорить с Драпеем. Попросить его, чтобы он вывез меня из Зоны. Мне больше нечего здесь делать.</text>
+	</string>	
+
+	<string id="mod_side_task_m20_title2">
+		<text>Радиоматериалы: отдать расходники Дизелю</text>
+	</string>
+	<string id="mod_side_task_m20_descr2">
+		<text>Всё что было в списке я нашёл, нужно принести это технику в научном институте и получить награду.</text>
+	</string>	
+	<string id="mod_side_task_m20_title">
+		<text>Радиоматериалы: найти расходники из списка</text>
+	</string>
+	<string id="mod_side_task_m20_descr">
+		<text>Нужно найти материалы из списка, для техника Дизеля. Искать нужно в Припяти.</text>
+	</string>	
+
+<string id="side_m20_show_1_available_task">
+<text>Радиоматериалы: найти для техника расходники</text>
+</string>
+    <string id="side_m20_show_1_typical_task">
+    <text>Найти и принести Дизелю радиоматериалы.</text>
+    </string>
+
+	<string id="mod_side_task_m12_title6">
+		<text>Ремонт: обсудить ситуацию с Тесаком</text>
+	</string>
+	<string id="mod_side_task_m12_descr2">
+		<text>Нужно поговорить с Тесаком.</text>
+	</string>	
+	<string id="mod_side_task_m12_title5">
+		<text>Ремонт: поговорить с Дизелем</text>
+	</string>
+	<string id="mod_side_task_m12_title4">
+		<text>Ремонт: поговорить с Тесаком</text>
+	</string>
+	<string id="mod_side_task_m12_title3">
+		<text>Ремонт: проверить электрощиток</text>
+	</string>
+	<string id="mod_side_task_m12_title2">
+		<text>Ремонт: помочь Тесаку</text>
+	</string>
+	<string id="mod_side_task_m12_title">
+		<text>Ремонт: проследовать за Тесаком</text>
+	</string>
+	<string id="mod_side_task_m12_descr">
+		<text>Нужно помочь Тесаку разобраться с подачей воды в научном институте.</text>
+	</string>
+
+	<string id="mod_side_task_m11_title2">
+		<text>Контракт с учёными: принести два артефакта Марико</text>
+	</string>
+	<string id="mod_side_task_m11_descr2">
+		<text>Артефакты, нужные девушке с позывным: Марико - у меня. Нужно отдать их ей и получить награду.</text>
+	</string>
+	<string id="mod_side_task_m11_title">
+		<text>Контракт с учёными: найти для Марико два артефакта</text>
+	</string>
+	<string id="mod_side_task_m11_descr">
+		<text>Марико попросила помочь ей с контрактом на учёных. Она должна предоставить им два артефакта: Снежинку и батарейку.</text>
+	</string>
+
+<string id="side_m11_show_1_available_task">
+<text>Контракт с учёными: помощь девушке Марико</text>
+</string>
+    <string id="side_m11_show_1_typical_task">
+    <text>Найти и принести для Марико два артефакта, батарейку и снежинку.</text>
+    </string>
+
+	<string id="mod_side_task_m10_title3">
+		<text>Друг бармена: рассказать бармену о смерти сталкера</text>
+	</string>
+	<string id="mod_side_task_m10_descr3">
+		<text>Его друг мёртв. При нём был ПДА... Думаю, нужно показать его Бармену.</text>
+	</string>
+	<string id="mod_side_task_m10_title2">
+		<text>Друг бармена: осмотреть тело сталкера</text>
+	</string>
+	<string id="mod_side_task_m10_descr2">
+		<text>Труп подозрительно похож на человека с фотографии, что показал бармен. Нужно его осмотреть.</text>
+	</string>	
+	<string id="mod_side_task_m10_title">
+		<text>Друг бармена: разыскать пропавшего сталкера</text>
+	</string>
+	<string id="mod_side_task_m10_descr">
+		<text>Бармен в институте попросил найти его старого друга, который исчез из сталкерской сети, и не выходит на контакт. Вестей от него уже давно нету... Искать нужно где-то в Припяти...</text>
+	</string>
+
+	<string id="mod_side_task_m7_title3">
+		<text>Гаусс-пушка: ждать когда можно забрать винтовку у Валентира</text>
+	</string>
+	<string id="mod_side_task_m7_descr3">
+		<text>Валентир скажет мне, когда будет готова гаусс-винтовка. Осталось лишь ждать. Сколько - неизвестно даже ему...</text>
+	</string>
+	<string id="mod_side_task_m7_title2">
+		<text>Гаусс-пушка: принести детали Валентиру</text>
+	</string>
+	<string id="mod_side_task_m7_descr2">
+		<text>Компоненты для сборки Гаусc-винтовки у меня. Нужно показать их Валентиру.</text>
+	</string>
+	<string id="mod_side_task_m7_title">
+		<text>Гаусс-пушка: найти детали для сборки</text>
+	</string>
+	<string id="mod_side_task_m7_descr">
+		<text>Валентир сказал, что после сделки Наёмников, смог найти у них чертежи по сборке гаусс-винтовки. Он сказал, что нужно три основных компонента, для её сборки. И искать их нужно в лаборатории Х8.</text>
+	</string>
+
+
+
+	<string id="mod_side_task_m6_title2">
+		<text>Секретные разработки: принести документы</text>
+	</string>
+	<string id="mod_side_task_m6_descr2">
+		<text>Я нашёл документы в лаборатории Х8, которые просил Лихой. Нужно принести их ему и получить награду.</text>
+	</string>
+	<string id="mod_side_task_m6_title">
+		<text>Секретные разработки: найти документы</text>
+	</string>
+	<string id="mod_side_task_m6_descr">
+		<text>Лихой сказал, что документы нужно искать в лаборатории Х8. Скорее всего документы будут очень надёжно спрятаны...</text>
+	</string>
+
+	<string id="mod_side_task_m5_end_title">
+		<text>Помехи: доложить Пуле</text>
+	</string>
+	<string id="mod_side_task_m5_end_descr">
+		<text>Помехи уничтожены. Нужно поговорить с заказчиком и получить награду.</text>
+	</string>
+
+	<string id="mod_side_task_m5_1_title">
+		<text>Помехи: уничтожить радиопомеху</text>
+	</string>
+	<string id="mod_side_task_m5_1_descr">
+		<text>По заданию Пули, я должен уничтожить три радиопомехи, которые глушат сигналы в Припяти.</text>
+	</string>
+
+<string id="side_m5_show_1_available_task">
+<text>Помехи: работа на Пулю</text>
+</string>
+    <string id="side_m5_show_1_typical_task">
+    <text>Уничтожить три радиопомехи</text>
+    </string>
+
+	<string id="mod_side_task_m4_title3">
+		<text>Конвой: принести груз торговцу</text>
+	</string>
+	<string id="mod_side_task_m4_descr3">
+		<text>По заданию торговца по кличке: Лихой - я нашёл ценный груз, на месте нападения на военный конвой. Теперь нужно принести груз торговцу и получить награду.</text>
+	</string>
+	
+	<string id="mod_side_task_m4_title">
+		<text>Конвой: осмотреть место нападения</text>
+	</string>
+	<string id="mod_side_task_m4_descr">
+		<text>На военный конвой напали монолитовцы. Конвой развален, но возможно там ещё осталось что-нибудь ценное.</text>
+	</string>
+	<string id="mod_side_task_m4_title2">
+		<text>Конвой: найти ценный груз для торговца</text>
+	</string>
+	<string id="mod_side_task_m4_descr2">
+		<text>Тут явно была хорошая битва... Осталось узнать, не растащили ли тут ещё всё самое ценное и полезное.</text>
+	</string>	
+
+	<string id="mod_side_task_m3_title3">
+		<text>Аномальный цветок: принести растение Кириллову</text>
+	</string>
+	<string id="mod_side_task_m3_title2">
+		<text>Аномальный цветок: сорвать растение</text>
+	</string>
+	<string id="mod_side_task_m3_title">
+		<text>Аномальный цветок: найти растение</text>
+	</string>
+	<string id="mod_side_task_m3_descr">
+		<text>Профессор Кириллов попросил найти для него аномальный цветок. Подсказал, что искать это растение нужно где-то в окрестностях детского сада. Нужно найти и принести этот цветок профессору, он обещал мне хорошую награду.</text>
+	</string>
+
+<string id="side_m3_show_1_available_task">
+<text>Аномальный цветок: работа на профессора Кириллова</text>
+</string>
+    <string id="side_m3_show_1_typical_task">
+    <text>Найти для профессора аномальное растение</text>
+    </string>
+
+	<string id="mod_side_task_m2_doc_title2">
+		<text>Неизвестный: узнать у доктора о «Ловце снов»</text>
+	</string>
+	<string id="mod_side_task_m2_doc_descr2">
+		<text>Чумной доктор - что-то знает об артефакте "Ловец снов". Нужно поговорить с ним.</text>
+	</string>
+	<string id="mod_side_task_m2_doc_title">
+		<text>Неизвестный: поговорить с незнакомцам</text>
+	</string>
+	<string id="mod_side_task_m2_doc_descr">
+		<text>Кто-то прислал мне сообщение о том, что у него есть ко мне разговор. Этот кто-то оставил свои координаты к сообщению. Это в Прачечной.</text>
+	</string>
+
+<string id="side_m2_show_1_available_task">
+<text>Замеры: работа на профессора Германа</text>
+</string>
+    <string id="side_m2_show_1_typical_task">
+    <text>Встретиться с научным сотрудником (Ассистентом)</text>
+    </string>
+
+	<string id="mod_side_task_m2_dop_title3">
+		<text>Расследование: узнать больше об артефакте «Ловец снов»</text>
+	</string>
+	<string id="mod_side_task_m2_dop_descr3">
+		<text>Профессор сказал что этот артефакт называется "Ловец снов". Первый раз про него слышу... Что ж... Если не буду на него смотреть - может и усну вечным сном... Надо бы узнать о нём побольше.</text>
+	</string>
+	<string id="mod_side_task_m2_dop_title2">
+		<text>Расследование: показать артефакт профессору Герману</text>
+	</string>
+	<string id="mod_side_task_m2_dop_descr2">
+		<text>Среди костей чьего-то трупа, в туннеле под Гастрономом - я нашёл странный артефакт. Что он делает - неизвестно. Стоит показать его профессору Герману.</text>
+	</string>
+	<string id="mod_side_task_m2_dop_title">
+		<text>Расследование: осмотреть местность</text>
+	</string>
+	<string id="mod_side_task_m2_dop_descr">
+		<text>Возможно я найду какие-нибудь зацепки в этом Гастрономе, или под ним... Кто-то или что-то, убило же этих учёных. Не могли же они просто так помереть тут?</text>
+	</string>
+
+	<string id="mod_side_task_m2_title3">
+		<text>Замеры: рассказать всё профессору Герману</text>
+	</string>
+	<string id="mod_side_task_m2_descr3">
+		<text>Группа учёных, которую я должен был сопровождать и охранять при сканировании аномалий - мертва. Нет следов стрельбы, нет когтей, нет крови... Они просто мертвы... Нужно рассказать профессору о случившемся.</text>
+	</string>
+	<string id="mod_side_task_m2_title2">
+		<text>Замеры: осмотреть трупы</text>
+	</string>
+	<string id="mod_side_task_m2_descr2">
+		<text>Кажется эколог и его охрана мертвы... Нет следов бойни... Ни крови, ни когтей. Стоит осмотреть их тела.</text>
+	</string>
+	<string id="mod_side_task_m2_title">
+		<text>Замеры: встретиться с научным сотрудником</text>
+	</string>
+	<string id="mod_side_task_m2_descr">
+		<text>Нужно встретиться с учёным возле Гастронома. Профессор Герман сказал, что тому необходима защита и помощь во время исследований аномалий в Припяти. Я вызвался помочь.</text>
+	</string>
+
+	<string id="mod_side_task_m1_title2">
+		<text>сигнал SOS: поговорить со сталкером</text>
+	</string>
+	<string id="mod_side_task_m1_descr2">
+		<text>Я всё-таки решил помочь бедному сталкеру. Стоит поговорить с ним.</text>
+	</string>
+	<string id="mod_side_task_m1_title">
+		<text>сигнал SOS: помочь или проигнорировать</text>
+	</string>
+	<string id="mod_side_task_m1_descr">
+		<text>Видимо на сталкеров напали бандиты. Сигнал идёт из магазина "Книги". Можно конечно помочь им, но стоит ли мне вмешиваться?</text>
+	</string>	
+
+	<string id="mod_a16_task_tech_instruments_name">
+		<text>Инструменты: принести три набора инструментов</text>
+	</string>
+	<string id="mod_a16_task_tech_instruments_text">
+		<text>Техник в лагере, профессор Сербин - просил найти три набора инструментов: для грубой работы, для тонкой работы, и еще набор для калибровки. Техник заплатит за инструменты, сделает скидку на ремонт и модернизацию оружия и брони.</text>
+	</string>	
+
+	<string id="und_mod_b900_task_title">
+		<text>Голос в голове: найти Ремарка</text>
+	</string>
+	<string id="und_mod_b900_task_descr">
+		<text>Я должен найти этого ублюдка. Любой ценой. Я должен узнать, что он со мной сделал...</text>
+	</string>
+
+	<string id="und_mod_b700_ink_task_title">
+		<text>Воспоминание: провести команду в Припять</text>
+	</string>
+	<string id="und_mod_b700_ink_task_descr">
+		<text>Необходимо провести учёных в Припять, через подземный путепровод. В городе, в лагере - экологов ждут сталкеры с артефактом.</text>
+	</string>
+
+	<string id="und_mod_b600_task_title">
+		<text>«Инкубатор»: выбрать место для схрона</text>
+	</string>
+	<string id="und_mod_b600_task_descr">
+		<text>Лелиана хочет спрятать артефакт, в подземном путепроводе Припяти. Стоит осмотреть подземелье, ну и найти подходящее место для "захоронения" артефакта.</text>
+	</string>	
+
+	<string id="mod_ink_k1_task_title">
+		<text>«Старые друзья»: узнать у Бьянки как у неё дела</text>
+	</string>
+	<string id="mod_ink_k1_task_descr">
+		<text>Не ожидал встретить Бьянку в научном институте. Мы хорошо раньше ладили... Очень, хорошо... Эх, жаль расстались. Спросить у неё что ли, как хоть дела.</text>
+	</string>
+
+	<string id="mod_ink_u80_bad_task_title">
+		<text>«Крах мира»: выбраться из научного института</text>
+	</string>
+	<string id="mod_ink_u80_bad_task_descr">
+		<text>Кажется артефакт вот вот всё тут уничтожит. Нужно срочно бежать к выходу!</text>
+	</string>
+
+	<string id="mod_ink_u62_start_task_title">
+		<text>«Инкубатор»: отправиться в научный институт</text>
+	</string>
+	<string id="mod_ink_u62_start_task_descr">
+		<text>Нужно срочно принести артефакт учёным в институт и получить за него награду.</text>
+	</string>
+	<string id="mod_ink_u62_start_task_title2">
+		<text>«Инкубатор»: принести артефакт Соколову</text>
+	</string>
+	<string id="mod_ink_u62_start_task_descr2">
+		<text>Нужно отдать артефакт профессору Соколову и получить награду.</text>
+	</string>
+
+
+	<string id="mod_ink_u63_start_task_title2">
+		<text>«Инкубатор»: следовать за Лелианой</text>
+	</string>
+	<string id="mod_ink_u63_start_task_descr2">
+		<text>Нужно следовать за девушкой. Она хочет спрятать артефакт, в подземном путепроводе Припяти.</text>
+	</string>	
+	<string id="mod_ink_u63_start_task_title">
+		<text>«Инкубатор»: поговорить с Лелианой</text>
+	</string>
+	<string id="mod_ink_u63_start_task_descr">
+		<text>Нужно поговорить с Лелианой, о дальнейших действиях.</text>
+	</string>	
+	
+	
+	
+	<string id="mod_ink_y4_start_task_title">
+		<text>Сделать выбор: сбежать или рассказать всё Лелиане</text>
+	</string>
+	<string id="mod_ink_y4_start_task_desc">
+		<text>Оставить артефакт себе или рассказать что он у меня. Сложный выбор.</text>
+	</string>
+
+	<string id="inkub_prip_y1_task_title6">
+		<text>Поиск: помочь отбиться от монолита</text>
+	</string>
+	<string id="inkub_prip_y1_task_desc6">
+		<text>На нас напали монолитовцы, нужно прикрыть Лелиану и помочь отбиться от врагов.</text>
+	</string>
+
+	<string id="inkub_prip_y1_task_title5">
+		<text>Поиск: осмотреть госпиталь</text>
+	</string>
+	<string id="inkub_prip_y1_task_desc5">
+		<text>Сигнал отряда Ремарка пропал в госпитале. Нужно осмотреться. Стоит быть осторожным и потише...</text>
+	</string>
+	<string id="inkub_prip_y1_task_title4">
+		<text>Поиск: следовать за Лелианой</text>
+	</string>
+	<string id="inkub_prip_y1_task_desc4">
+		<text>Лелиана узнала что отряд Ремарка в госпитале, но сигнал пропал. Стоит следовать за девушкой, она знает что делать...</text>
+	</string>
+	<string id="inkub_prip_y1_task_title3">
+		<text>Поиск: поговорить с Лелианой</text>
+	</string>
+	<string id="inkub_prip_y1_task_desc3">
+		<text>Кажется у неё получилось отследить отряд Ремарка. Нужно узнать подробности.</text>
+	</string>
+	<string id="inkub_prip_y1_task_title2">
+		<text>Поиск: подождать Лелиану</text>
+	</string>
+	<string id="inkub_prip_y1_task_desc2">
+		<text>Лелиана пытается найти сигнал отряда Ремарка. Нужно лишь подождать.</text>
+	</string>
+
+	<string id="inkub_prip_y1_task_title">
+		<text>Поиск: спросить о Ремарке у Лелианы</text>
+	</string>
+	<string id="inkub_prip_y1_task_desc">
+		<text>Я снова в деле. Ремарк сказал, что артефакт у него. Не знаю, стоит ли верить его словам, но, пожалуй, возьму на заметку. Думаю, стоит поговорить с Лелианой. Может она знает где можно найти Ремарка.</text>
+	</string>
+
+	<string id="mod_p27_inkubator_1_task_title3">
+		<text>«Инкубатор»: отправиться в Припять</text>
+	</string>
+	<string id="mod_p27_inkubator_1_task_desc3">
+		<text>Нужно поговорить с Драпеем, чтобы он отвёз меня в Припять.</text>
+	</string>
+	<string id="mod_p27_inkubator_1_task_title2">
+		<text>«Инкубатор»: поговорить с военным</text>
+	</string>
+	<string id="mod_p27_inkubator_1_task_desc2">
+		<text>Сделка с учёными снова актуальна. Самое время поспешить и найти артефакт - «Инкубатор». Профессор сказал подойти к военному по кличке: Драпей. Тот должен доставить меня обратно в Зону, в Припять...</text>
+	</string>
+
+	<string id="mod_p27_inkubator_1_task_title">
+		<text>«Инкубатор»: встретиться с Профессором</text>
+	</string>
+	<string id="mod_p27_inkubator_1_task_desc">
+		<text>Вот я и в научном центре. Осталось поскорее найти профессора и узнать, что замышляет Наёмник по кличке: Крест.</text>
+	</string>
+
+	<string id="mod_o84_institute_task_title2">
+		<text>«Инкубатор»: поговорить с Соколовым</text>
+	</string>
+	<string id="mod_o84_institute_task_desc2">
+		<text>Профессор скинул мне сообщение о том, что они готовы улетать в научный институт. Он обещал выделить место на борту и для меня. Нужно поговорить с ним.</text>
+	</string>
+	<string id="mod_o84_institute_task_title">
+		<text>«Инкубатор»: ждать новостей от учёных</text>
+	</string>
+	<string id="mod_o84_institute_task_desc">
+		<text>Профессор Соколов убедил меня в том, что возьмёт меня с собой в научный институт. Осталось дождаться, когда он скинет мне сообщение о готовности.</text>
+	</string>
+
+	<string id="mod_o83_talk_krest_task_title">
+		<text>Подозреваемый: поговорить с Наёмником</text>
+	</string>
+	<string id="mod_o83_talk_krest_task_desc">
+		<text>Что-то тут не так... Наёмники что-то замышляют, я в этом уверен. Попробую спросить у этого Наёмника по кличке "Крест" об артефакте и о том, где они его нашли...</text>
+	</string>
+
+	<string id="mod_o83_search_hromoi_task_title4">
+		<text>Совет друга: поговорить с Хромым</text>
+	</string>
+	<string id="mod_o83_search_hromoi_task_desc4">
+		<text>Нужно узнать как себя чувствует Хромой.</text>
+	</string>
+
+	<string id="mod_o83_search_hromoi_task_title3">
+		<text>Совет друга: помочь Хромому</text>
+	</string>
+	<string id="mod_o83_search_hromoi_task_desc3">
+		<text>Хромой ранен... Нужно ему помочь.</text>
+	</string>
+
+	<string id="mod_o83_search_hromoi_task_title2">
+		<text>Совет друга: разыскать Хромого</text>
+	</string>
+	<string id="mod_o83_search_hromoi_task_desc2">
+		<text>Хромой куда-то пропал... На связь не отвечает. Но он был здесь буквально час назад... Куда он мог уйти? А что если его похитили?</text>
+	</string>
+	<string id="mod_o83_search_hromoi_task_title">
+		<text>Совет друга: поговорить с Хромым</text>
+	</string>
+	<string id="mod_o83_search_hromoi_task_desc">
+		<text>Что-то тут не так... Наёмники что-то замышляют, я в этом уверен. Стоит поговорить с Хромым об этом.</text>
+	</string>
+
+	<string id="mod_o81_scenario_task_title3">
+		<text>Информация: обсудить ситуацию с профессором</text>
+	</string>
+	<string id="mod_o81_scenario_task_desc3">
+		<text>Что-то тут не так... Наёмники что-то замышляют, я в этом уверен. Стоит поговорить с профессором Соколовым об этом.</text>
+	</string>
+	<string id="mod_o81_scenario_task_title2">
+		<text>Информация: поговорить с Соколовым</text>
+	</string>
+	<string id="mod_o81_scenario_task_desc2">
+		<text>У экологов ко мне какой-то разговор. Стоит узнать, что им нужно теперь.</text>
+	</string>
+	<string id="mod_o81_scenario_task_title">
+		<text>Информация: встретиться с Хромым</text>
+	</string>
+	<string id="mod_o81_scenario_task_desc">
+		<text>Пока я носился за Ремарком, что кстати делал зря... У Хромого появилась для меня какая-то важная информация по поводу артефакта. Я должен с ним поговорить об этом. Он ждёт меня в Прачечной.</text>
+	</string>
+
+	<string id="mod_lx8_s3_remark_search_task_title3">
+		<text>«Игры в прятки»: осмотреть "нечто"</text>
+	</string>
+	<string id="mod_lx8_s3_remark_search_task_desc3">
+		<text>На речном порту я нашёл какой-то артефакт... То ли это аномалия... Не знаю, но стоит осмотреть эту находку.</text>
+	</string>
+	<string id="mod_lx8_s3_remark_search_task_title2">
+		<text>«Игры в прятки»: проверить речной порт</text>
+	</string>
+	<string id="mod_lx8_s3_remark_search_task_desc2">
+		<text>В записке Ремарка - указано что он ждёт меня в речном порту, в Припяти.</text>
+	</string>
+
+	<string id="mod_lx8_s3_inkubator_search_ink_task_title3">
+		<text>«Инкубатор»: покинуть лабораторию</text>
+	</string>
+	<string id="mod_lx8_s3_inkubator_search_ink_task_descr3">
+		<text>Записка от Ремарка... Он явно меня ждал и был уверен что я её прочту. Хм...</text>
+	</string>
+	<string id="mod_lx8_s3_inkubator_search_ink_task_title2">
+		<text>«Инкубатор»: посмотреть что на столе</text>
+	</string>
+	<string id="mod_lx8_s3_inkubator_search_ink_task_descr2">
+		<text>Возможно в лаборатории остались какие-нибудь следы, зацепки или "подсказки" - где искать Ремарка. На столе кипа с документами, стоит глянуть что там.</text>
+	</string>
+
+	<string id="mod_inst_i7_i8_task_title">
+		<text>«Иллюзия»: выбраться из аномалии</text>
+	</string>
+	<string id="mod_inst_i7_i8_task_desc">
+		<text>Я не знаю где я и что со мной происходит. Со мной разговаривает Ремарк, но он явно не человек. Я не могу поймать его, он исчезает... У меня нет другого выхода кроме как выбраться из его ловушки.</text>
+	</string>
+
+	<string id="mod_lx8_s3_inkubator_search_ink_task_title">
+		<text>«Инкубатор»: осмотреть лабораторию</text>
+	</string>
+	<string id="mod_lx8_s3_inkubator_search_ink_task_descr">
+		<text>Возможно в лаборатории остались какие-нибудь следы, зацепки или "подсказки" - где искать Ремарка. Стоит осмотреть тут всё.</text>
+	</string>
+
+	<string id="mod_lx8_s3_remark_search_task_title">
+		<text>«Игры в прятки»: найти Ремарка</text>
+	</string>
+	<string id="mod_lx8_s3_remark_search_task_desc">
+		<text>Нужно найти этого человека по кличке: «Ремарк»... Он в странном костюме со шлемом... И.... артефакт сейчас у него.</text>
+	</string>
+
+	<string id="mod_lx8_s3_wtf_task_title">
+		<text>«Контроль разума»: узнать что произошло</text>
+	</string>
+	<string id="mod_lx8_s3_wtf_task_descr">
+		<text>Что это со мной было... чёрт возьми... Стоит поговорить с Лелианой.</text>
+	</string>
+
+	<string id="mod_lx8_s2_task_title">
+		<text>Лаборатория X8: узнать про артефакт</text>
+	</string>
+	<string id="mod_lx8_s2_task_descr">
+		<text>Вот я и в лаборатории. Повстречал снова Лелиану и какого-то учёного. Возможно он даст мне ответы на мои вопросы...</text>
+	</string>
+
+	<string id="mod_a16_ink_search_artefact_task_title7">
+		<text>«Инкубатор»: следовать за Лелианой</text>
+	</string>
+	<string id="mod_a16_ink_search_artefact_task_descr7">
+		<text>Лелиана, та самая, из отряда Монолита - который забрал артефакт. Она снова оставила меня в живых и хочет с кем-то познакомить.</text>
+	</string>
+	<string id="mod_a16_ink_search_artefact_task_title6">
+		<text>«Инкубатор»: спуститься в лабораторию Х8</text>
+	</string>
+	<string id="mod_a16_ink_search_artefact_task_descr6">
+		<text>Ключ-карта у меня. Пора мне уже узнать, что же находится под зданием КБО.</text>
+	</string>
+	<string id="mod_a16_ink_search_artefact_task_title5">
+		<text>«Инкубатор»: поговорить с Хромым</text>
+	</string>
+	<string id="mod_a16_ink_search_artefact_task_descr5">
+		<text>Хромой - это мой старый друг. Помню... что он рассказывал мне, мол работал в КБО, в Припяти. Ещё задолго до взрыва. Стоит поговорить с ним.</text>
+	</string>
+
+	<string id="mod_a16_ink_search_artefact_task_title4">
+		<text>«Инкубатор»: связаться с Хромым</text>
+	</string>
+	<string id="mod_a16_ink_search_artefact_task_descr4">
+		<text>Хромой - это мой старый знакомый. Он рассказывал, что работал в КБО, в Припяти. Стоит поговорить с ним.</text>
+	</string>
+
+	<string id="mod_a16_ink_search_artefact_task_title3">
+		<text>«Инкубатор»: проверить аварийный генератор</text>
+	</string>
+	<string id="mod_a16_ink_search_artefact_task_descr3">
+		<text>Двери в шахту лифта обесточены. Чтобы их открыть, необходимо найти и запустить аварийный генератор. Необходимо найти для учёных утерянный артефакт - «Инкубатор». По наводке Морриган я узнал что отряд, который его похитил - базируется в лаборатории, которая по её словам находится под КБО.</text>
+	</string>
+
+	<string id="mod_a16_ink_search_artefact_task_title2">
+		<text>«Инкубатор»: осмотреть КБО</text>
+	</string>
+	<string id="mod_a16_ink_search_artefact_task_descr2">
+		<text>Необходимо найти для учёных утерянный артефакт - «Инкубатор». По наводке Морриган я узнал что отряд, который его похитил - базируется в лаборатории, которая по её словам находится под КБО.</text>
+	</string>
+
+	<string id="mod_ins_b23_to_b24_task_title6">
+		<text>Сделка: принести кейс Морриган</text>
+	</string>
+		<string id="mod_ins_b23_to_b24_task_descr6">
+		<text>Кейс у меня, нужно вернуться к Морриган и обменять его на информацию по поводу артефакта «Инкубатор».</text>
+	</string>
+
+	<string id="mod_ins_b23_to_b24_task_title5">
+		<text>Сделка: украсть кейс</text>
+	</string>
+		<string id="mod_ins_b23_to_b24_task_descr5">
+		<text>Нужно забрать у наёмников кейс, "силой". В обмен на нужную мне информацию по поводу артефакта - я должен помочь Морриган перехватить какой-то кейс с документами.</text>
+	</string>
+
+	<string id="mod_ins_b23_to_b24_task_title4">
+		<text>Сделка: спуститься с крыши</text>
+	</string>
+		<string id="mod_ins_b23_to_b24_task_descr4">
+		<text>Нужно спуститься с прибором со здания. В обмен на нужную мне информацию по поводу артефакта - я должен помочь Морриган перехватить какой-то кейс с документами.</text>
+	</string>
+
+	<string id="mod_ins_b23_to_b24_task_title3">
+		<text>Сделка: забрать прибор</text>
+	</string>
+		<string id="mod_ins_b23_to_b24_task_descr3">
+		<text>Нужно забрать прибор для прослушки на крыше. В обмен на нужную мне информацию по поводу артефакта - я должен помочь Морриган перехватить какой-то кейс с документами.</text>
+	</string>
+	<string id="mod_ins_b23_to_b24_task_title2">
+		<text>Сделка: взобраться на крышу</text>
+	</string>
+	<string id="mod_ins_b23_to_b24_task_descr2">
+		<text>Нужно залезть по "Лиане" в здание, на крышу. В обмен на нужную мне информацию по поводу артефакта - я должен помочь Морриган перехватить какой-то кейс с документами.</text>
+	</string>
+	<string id="mod_ins_b23_to_b24_task_title">
+		<text>Сделка: следовать за Морриган</text>
+	</string>
+	<string id="mod_ins_b23_to_b24_task_descr">
+		<text>Нужно следовать за Морриган. В обмен на нужную мне информацию по поводу артефакта - я должен помочь ей перехватить какой-то кейс с документами.</text>
+	</string>
+
+	<string id="mod_a42_to_a16_morrigan_task_title3">
+		<text>Азартная жизнь: узнать что нужно Морриган</text>
+	</string>
+	<string id="mod_a42_to_a16_morrigan_task_title2">
+		<text>Азартная жизнь: прийти на место встречи</text>
+	</string>
+	<string id="mod_a42_to_a16_morrigan_task_descr2">
+		<text>У Морриган есть какая-то информация, надеюсь - что действительно очень полезная для меня. Нужно встретиться с ней в назначенном месте.</text>
+	</string>
+	<string id="mod_a42_to_a16_morrigan_task_title">
+		<text>Азартная жизнь: поговорить с Морриган</text>
+	</string>
+	<string id="mod_a42_to_a16_morrigan_task_descr">
+		<text>Стоит узнать, есть ли у Морриган для меня полезная информация и что для этого она хочет взамен.</text>
+	</string>
+
+	<string id="mod_a16_ink_search_monoliths_task_title2">
+		<text>Похитители: обсудить ситуацию с учёными</text>
+	</string>
+	<string id="mod_a16_ink_search_monoliths_task_descr2">
+		<text>Отряд «Монолита», который убил сталкеров в лагере и украл артефакт - «Инкубатор»: снова ускользнули, один из бойцов этого отряда - девушка, Лелиана. Она отпустила меня, но взяла с меня обещание - что я не стану их преследовать. Нужно поговорить об этом с экологами.</text>
+	</string>
+
+	<string id="mod_a29_scanner_task_title3">
+		<text>По следам: осмотреть школу</text>
+	</string>
+	<string id="mod_a29_scanner_task_descr3">
+		<text>Координаты привели меня в школу. Нужно осмотреться.</text>
+	</string>
+	<string id="mod_a29_scanner_task_title2">
+		<text>По следам: добраться до полученных координат</text>
+	</string>
+	<string id="mod_a29_scanner_task_descr2">
+		<text>Сканер работает. Морриган нашла координаты трансляции. Нужно поскорее туда добраться. Возможно, я найду там какие-нибудь зацепки.</text>
+	</string>
+	<string id="mod_a29_scanner_task_title">
+		<text>По следам: установить сканер</text>
+	</string>
+	<string id="mod_a29_scanner_task_descr">
+		<text>С помощью сканера связи, можно получить координаты видеотрансляции с ноутбука. Нужно лишь взобраться повыше.</text>
+	</string>
+
+	<string id="mod_a16_ink_morrigan_1_task_title">
+		<text>Авантюра: поговорить с Морриган</text>
+	</string>
+	<string id="mod_a16_ink_morrigan_1_task_descr">
+		<text>Морриган прислала сообщение, в котором просит с ней что-то обсудить.</text>
+	</string>
+	<string id="mod_a16_ink_morrigan_1_task_title2">
+		<text>Авантюра: следовать за Морриган</text>
+	</string>
+	<string id="mod_a16_ink_morrigan_1_task_descr2">
+		<text>Морриган предложила осмотреть Прачечную вместе.</text>
+	</string>
+	<string id="mod_a16_ink_morrigan_1_task_title3">
+		<text>Авантюра: осмотреть ноутбук</text>
+	</string>
+	<string id="mod_a16_ink_morrigan_1_task_descr3">
+		<text>На столе ноутбук. Стоит заглянуть в него, а вдруг там есть что-то важное для поиска артефакта «Инкубатор».</text>
+	</string>	
+	
+	<string id="mod_a16_ink_search_artefact_task_title">
+		<text>«Инкубатор»: найти артефакт</text>
+	</string>
+	<string id="mod_a16_ink_search_artefact_task_descr">
+		<text>Необходимо найти для учёных утерянный артефакт - «Инкубатор».</text>
+	</string>
+	
+	<string id="mod_a16_ink_search_monoliths_task_title">
+		<text>Похитители: найти отряд «Монолита»</text>
+	</string>
+	<string id="mod_a16_ink_search_monoliths_task_descr">
+		<text>Необходимо найти отряд «Монолита», который убил сталкеров в лагере и украл артефакт - «Инкубатор».</text>
+	</string>
+
+	<string id="ink_pri_a16_lol_the_end_mod_task_title">
+		<text>Другие планы: покинуть Припять</text>
+	</string>
+	<string id="ink_pri_a16_lol_the_end_mod_task_descr">
+		<text>Я отказался от задания. Можно и сваливать отсюда, хрен с ними, с этими учёными и их артефактом.</text>
+	</string>
+
+	<string id="ink_pri_a15_start_mod_task_title">
+		<text>Проводник: провести учёных в лагерь</text>
+	</string>
+	<string id="ink_pri_a15_start_mod_task_descr">
+		<text>Необходимо провести учёных в прачечную. Это самое безопасное место в окрестностях Припяти. Там экологов и ждут сталкеры.</text>
+	</string>
+	<string id="ink_pri_a15_start_mod_task_title2">
+		<text>Проводник: осмотреть прачечную</text>
+	</string>
+	<string id="ink_pri_a15_start_mod_task_descr2">
+		<text>В лагере Припяти, что-то произошло... Нужно осмотреться.</text>
+	</string>
+	<string id="ink_pri_a15_start_mod_task_title3">
+		<text>Проводник: обсудить ситуацию с учёными</text>
+	</string>
+	<string id="ink_pri_a15_start_mod_task_descr3">
+		<text>По записи в ПДА, можно понять что на лагерь что-то или кто-то напал. Судя по выстрелам и фразам сталкеров, это были монолитовцы, которые к тому же, забрали артефакт.</text>
+	</string>	
+	
+</string_table>

@@ -1,0 +1,2008 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+<string id="mod_pripyat_final_true_drapei_dialog_guider_out_zone_0_txt">
+<text>Я хочу покинуть Зону.</text>
+</string>
+<string id="mod_pripyat_final_true_drapei_dialog_guider_out_zone_1_txt">
+<text>Решился таки? Что ж... Думаю, это правильно. Тогда, в путь?</text>
+</string>
+<string id="mod_pripyat_final_true_drapei_dialog_guider_out_zone_11_txt">
+<text>Выброс, Крамер... Вот как закончится - тогда сразу и отправимся. Окей?</text>
+</string>
+<string id="mod_pripyat_final_true_drapei_dialog_guider_out_zone_2_txt">
+<text>Да. Пора. В путь...</text>
+</string>
+<string id="mod_pripyat_final_true_drapei_dialog_guider_out_zone_22_txt">
+<text>Подожди... Кажется, я ещё что-то забыл!</text>
+</string>
+<string id="mod_pripyat_final_true_drapei_dialog_guider_out_zone_3_txt">
+<text>Ну да. Ты прав. Давай подождём.</text>
+</string>
+
+<string id="mod_m20_dizel_end_work_dialog_0_txt">
+<text>Вот, Дизель. Всё, что было в твоём списке. Держи!</text>
+</string>
+<string id="mod_m20_dizel_end_work_dialog_1_txt">
+<text>Ух ты! Удружил! Ох удружил! Реально... Спасибо тебе, Крамер! Вот, держи награду! Ну, теперь я конечно разгонюсь и начну промышлять по полной. Хе-хе!</text>
+</string>
+<string id="mod_m20_dizel_end_work_dialog_2_txt">
+<text>Я рад за тебя.</text>
+</string>
+
+<string id="mod_m20_dizel_dai_work_dialog_0_txt">
+<text>Может работёнка какая имеется?</text>
+</string>
+<string id="mod_m20_dizel_dai_work_dialog_1_txt">
+<text>Эх... Радиоматериалов мне бы... Их, как обычно не хватает... Хочу вот, расширить свои технические навыки и возможности. Но, кто бы мне притащил этих самых расходников? Уже устал звонить в интернет-магазины, чтобы побыстрее прислали нужные мне материалы, вечно у них задержки, то связь отсюда плохо ловит, то ещё у них какие-то отмазки... Эх. Кхм... А что, у тебя есть желание помочь мне?</text>
+</string>
+<string id="mod_m20_dizel_dai_work_dialog_2_txt">
+<text>Ну давай-давай, составляй уже мне список. Посмотрим, может что да найдётся.</text>
+</string>
+<string id="mod_m20_dizel_dai_work_dialog_22_txt">
+<text>Ой нет, давай это как-нибудь в другой раз.</text>
+</string>
+<string id="mod_m20_dizel_dai_work_dialog_3_txt">
+<text>Одну минуту... Вот, держи. Хотелось бы получить всё что из этого списка. Наградой соответственно не обижу, будь уверен, Крамер.</text>
+</string>
+<string id="mod_m20_dizel_dai_work_dialog_4_txt">
+<text>Хорошо.</text>
+</string>
+
+<string id="mod_m13_inst_tesak_end_work_dialog_0_txt">
+<text>Поговорил я с Дизелем. Я так понял, вы уже тоже, пообщались. Верно?</text>
+</string>
+<string id="mod_m13_inst_tesak_end_work_dialog_1_txt">
+<text>Ха! Да-да, пообщались. Почему он вечно такой зануда?! И постоянно чем-то недоволен. Злой он какой-то на меня. Хмм...</text>
+</string>
+<string id="mod_m13_inst_tesak_end_work_dialog_2_txt">
+<text>Хотел спросить, я как, вам, уже, наверное не нужен?</text>
+</string>
+<string id="mod_m13_inst_tesak_end_work_dialog_3_txt">
+<text>Ой, да... Пока что ты нам не нужен, но, это пока что! Хе-хе! И... Спасибо, что вообще отозвался! Вот, это тебе. Ты заслужил! Хе-хе. Держи-держи!</text>
+</string>
+
+<string id="mod_m12_inst_dizel_end_work_dialog_0_txt">
+<text>Дизель, тут Тесак просит тебя помочь.</text>
+</string>
+<string id="mod_m12_inst_dizel_end_work_dialog_1_txt">
+<text>Ага... В курсе я уже. Вот поэтому я и выключаю свою рацию. Чтобы этот придурок, мне не брякал от утра до вечера, по всякой ерунде... Говорил же ему, ай... Всё путём Крамер, я уже ему ответил.</text>
+</string>
+<string id="mod_m12_inst_dizel_end_work_dialog_2_txt">
+<text>А что случилось то вообще? Что с водой и со светом у вас?</text>
+</string>
+<string id="mod_m12_inst_dizel_end_work_dialog_3_txt">
+<text>Да блин... генератор тупит, то выбивает, то вырубается... А из-за этих вот перебоев в работе - водяной насос и испортился. Ай, фигня! Жду, вот, когда привезут - новый насос. И пойду с этим дураком Тесаком - чинить тогда всё. А пока, сижу отдыхаю, мне платят за то что я нахожусь на рабочем месте, а не мозги себе лишний раз треплю. Хе-хе. Вообщем, извини, что он тебя в это втянул. Поговори с ним, думаю, хоть как-то он тебе эту авантюру компенсирует потраченное время, ну а если нет - скажешь мне, я ему тогда дробовик в жопу - установлю, без возможности снятия.</text>
+</string>
+
+<string id="mod_m12_inst_tesak_end_work_dialog_101_txt">
+<text>Так... Хмм.</text>
+</string>
+<string id="mod_m12_inst_tesak_end_work_dialog_0_txt">
+<text>И? Что дальше?</text>
+</string>
+<string id="mod_m12_inst_tesak_end_work_dialog_1_txt">
+<text>Хм... Что-то выбивает свет... Л-ладно, нужно сходить к Дизелю. Пусть подойдёт сюда, нужна его помощь. Вот же мудак он, умгх... Опять он свою рацию вырубил. Слушай, Крамер, будь другом, сходи за ним, а?</text>
+</string>
+<string id="mod_m12_inst_tesak_end_work_dialog_2_txt">
+<text>Хорошо. Без проблем.</text>
+</string>
+
+<string id="mod_m12_inst_tesak_dai_work_dialog_0_txt">
+<text>Есть какая-нибудь работа?</text>
+</string>
+<string id="mod_m12_inst_tesak_dai_work_dialog_1_txt">
+<text>Хм... Есть конечно! А ты готов помочь?</text>
+</string>
+<string id="mod_m12_inst_tesak_dai_work_dialog_2_txt">
+<text>Ну да. Для этого я и спросил.</text>
+</string>
+<string id="mod_m12_inst_tesak_dai_work_dialog_3_txt">
+<text>Я был бы не против, если бы ты помог мне кое-что починить... У нас тут в дальнем помещении появились проблемы с водой и собственно с её подачей. Короче, давай сходим туда - да посмотрим, а там на месте уже и решим, что к чему, добро?</text>
+</string>
+<string id="mod_m12_inst_tesak_dai_work_dialog_4_txt">
+<text>Ну пошли.</text>
+</string>
+<string id="mod_m12_inst_tesak_dai_work_dialog_22_txt">
+<text>Нет. Давай потом.</text>
+</string>
+
+<string id="mod_m11_inst_hip_end_work_dialog_0_txt">
+<text>Вот твои артефакты. Снежинка и батарейка. Держи.</text>
+</string>
+<string id="mod_m11_inst_hip_end_work_dialog_1_txt">
+<text>Спасибо тебе большое, Крамер! Выручил, очень, выручил! Вот, держи, это тебе... Ну всё, наконец-то контракт с учёными выполню, теперь свободна как ветер... Ты такой молодец!</text>
+</string>
+<string id="mod_m11_inst_hip_end_work_dialog_2_txt">
+<text>Спасибо. Взаимно.</text>
+</string>
+
+<string id="mod_m11_inst_hip_dai_work_dialog_0_txt">
+<text>Может, есть для меня работа?</text>
+</string>
+<string id="mod_m11_inst_hip_dai_work_dialog_1_txt">
+<text>А ты поможешь? Мне нужно поскорее закончить контракт с учёными. Я должна принести им два артефакта, но на их поиск у меня сейчас нет времени... Не хотелось бы возвращаться в Зону, ради этих безделушек, понимаешь?</text>
+</string>
+<string id="mod_m11_inst_hip_dai_work_dialog_2_txt">
+<text>И какие же артефакты тебе нужно предоставить учёным?</text>
+</string>
+<string id="mod_m11_inst_hip_dai_work_dialog_22_txt">
+<text>Забудь, не сейчас.</text>
+</string>
+<string id="mod_m11_inst_hip_dai_work_dialog_3_txt">
+<text>Батарейку и снежинку... Слушай, если поможешь - награда будет в лучшем виде, правда.</text>
+</string>
+<string id="mod_m11_inst_hip_dai_work_dialog_4_txt">
+<text>Дам знать, если раздобуду такие артефакты.</text>
+</string>
+
+
+
+<string id="mod_m10_inst_barmen_end_work_dialog_0_txt">
+<text>Нашёл я друга твоего... Мёртв он. И, пда его: вот.</text>
+</string>
+<string id="mod_m10_inst_barmen_end_work_dialog_1_txt">
+<text>Знал я... Знал: что ничем хорошим его поход не закончится. Эх, и ПДА его зашифрован... Вот почему он на связь не выходил... Чёрт. Как так? Блин... Спасибо, Крамер. Вот, это за твои труды.</text>
+</string>
+<string id="mod_m10_inst_barmen_end_work_dialog_2_txt">
+<text>Соболезную.</text>
+</string>
+<string id="mod_m10_inst_barmen_end_work_dialog_44_txt">
+<text>Эх... Да... Спасибо...</text>
+</string>
+<string id="mod_m10_inst_barmen_end_work_dialog_22_txt">
+<text>Не нужно награды.</text>
+</string>
+<string id="mod_m10_inst_barmen_end_work_dialog_33_txt">
+<text>Бери-бери! Если бы не ты, хрен бы я узнал что с ним... Я ведь, уже давно думал, что он погиб... Но, надежда где-то внутри была, что живой он, что... вернётся... Эх. Спасибо тебе, правда.</text>
+</string>
+
+<string id="mod_m10_inst_barmen_dai_work_dialog_0_txt">
+<text>Есть какая-нибудь работа?</text>
+</string>
+<string id="mod_m10_inst_barmen_dai_work_dialog_1_txt">
+<text>Эх... Друга бы моего кто нашёл. Вот, глянь на фото: видишь? Клоун у него кличка... А он: пропал, идиот. Пда видимо выключил, отправился в Припять и пропал... Вот же дурак, а... И где его черти носят уже несколько месяцев. Чую... С ним - что-то случилось.</text>
+</string>
+<string id="mod_m10_inst_barmen_dai_work_dialog_2_txt">
+<text>%c[0,140,140,140][..далее..]</text>
+</string>
+
+	<string id="mod_inst_p33_sold_valentir_make_battery_0_txt">
+		<text>Мне нужны батареи к гаусс-винтовке.</text>
+	</string>
+	<string id="mod_inst_p33_sold_valentir_make_battery_1_txt">
+		<text>Да без проблем, Крамер! Тебе - по дружески: за 2000 всего.</text>
+	</string>
+	<string id="mod_inst_p33_sold_valentir_make_battery_11_txt">
+		<text>Держи деньги.</text>
+	</string>
+	<string id="mod_inst_p33_sold_valentir_make_battery_12_txt">
+		<text>Я ещё подумаю.</text>
+	</string>
+	<string id="mod_inst_p33_sold_valentir_make_battery_13_txt">
+		<text>Нет сейчас денег.</text>
+	</string>
+
+<string id="mod_m8_valentir_dai_gauss_dialog_0_txt">
+<text>Валентир. Что там с винтовкой, готова?</text>
+</string>
+<string id="mod_m8_valentir_dai_gauss_dialog_1_txt">
+<text>Да! Держи, Крамер. Пользуйся на здоровье! Если будут нужны заряды к ней - я продам, очень дёшево.</text>
+</string>
+<string id="mod_m8_valentir_dai_gauss_dialog_2_txt">
+<text>Отлично.</text>
+</string>
+
+<string id="mod_m7_a16_valentir_end_work_new_dialog_0_txt">
+<text>Вот все три компонента для сборки Гаусс-пушки. Держи.</text>
+</string>
+<string id="mod_m7_a16_valentir_end_work_new_dialog_1_txt">
+<text>Супер! Давай их скорее сюда. Как только появятся образцы гаусс-пушки, я дам тебе знать!</text>
+</string>
+<string id="mod_m7_a16_valentir_end_work_new_dialog_2_txt">
+<text>Хорошо. Буду ждать свою винтовку...</text>
+</string>
+
+<string id="mod_m7_a16_valentir_dai_work_new_dialog_0_txt">
+<text>Ну что, есть работа?</text>
+</string>
+<string id="mod_m7_a16_valentir_dai_work_new_dialog_1_txt">
+<text>Есть, Крамер. После сделки с Наёмниками, я смог найти у них чертежи по сборке Гаус-винтовки. Оказывается, в Лаборатории Х8, тоже проводились разработки этих пушек. В схеме: указаны три основных компонента для сборки. Детали необычные, и такие хрен где попало валяются... Осталось их только найти... Если соберём гаус-пушку, будет, ну, очень здорово! Я передам эти детали и схемы нашим учёным и они сделают образцы этих оружий. Одна винтовка перепадёт и тебе, я ручаюсь!</text>
+</string>
+<string id="mod_m7_a16_valentir_dai_work_new_dialog_2_txt">
+<text>Я тебя понял.</text>
+</string>
+
+<string id="mod_m4_a16_lixoi_end_work_dva_dialog_0_txt">
+<text>Документы из лаборатории у меня.</text>
+</string>
+<string id="mod_m4_a16_lixoi_end_work_dva_dialog_1_txt">
+<text>Нашёл? Правда, нашёл!? Ну, Крамер, ну ты и голова! Ну-ка, показывай скорее... Да! Это они. Давай их сюда. Супер, я богат! Ха-ха!</text>
+</string>
+<string id="mod_m4_a16_lixoi_end_work_dva_dialog_2_txt">
+<text>Вот.</text>
+</string>
+
+<string id="mod_m4_a16_lixoi_dai_work_dva_dialog_0_txt">
+<text>Может ещё работа есть?</text>
+</string>
+<string id="mod_m4_a16_lixoi_dai_work_dva_dialog_1_txt">
+<text>Документы мне нужны одни... Кхм, по наводке узнал - что искать их нужно где-то в лаборатории Х8. Если найдёшь их, отвалю хорошие деньги, имей в виду. Заказчику, они очень нужны...</text>
+</string>
+<string id="mod_m4_a16_lixoi_dai_work_dva_dialog_2_txt">
+<text>Хорошо. Понял.</text>
+</string>
+
+<string id="mod_side_a16_valentir_dai_work_dialog_0_txt">
+<text>Есть для меня работа?</text>
+</string>
+<string id="mod_side_a16_valentir_dai_work_dialog_1_txt">
+<text>Эх, нету Крамер. Но если появится, я дам тебе знать!</text>
+</string>
+
+<string id="mod_side_a16_morrigan_dai_work_dialog_0_txt">
+<text>Есть работа?</text>
+</string>
+<string id="mod_side_a16_morrigan_dai_work_dialog_1_txt">
+<text>Хммм... Прости Крамер - но пока что для тебя работы нету.</text>
+</string>
+
+<string id="mod_m5_a16_pyl9_end_work_dialog_0_text">
+<text>Помехи устранены. Задание я выполнил. Верно?</text>
+</string>
+<string id="mod_m5_a16_pyl9_end_work_dialog_1_text">
+<text>Вижу. Верно. Да. Ты молодец, отлично справился... Вот, держи, заслужил, спасибо!</text>
+</string>
+<string id="mod_m5_a16_pyl9_end_work_dialog_2_text">
+<text>Отлично.</text>
+</string>
+
+<string id="mod_m5_a16_pyl9_dai_work_dialog_0_txt">
+<text>Есть работа?</text>
+</string>
+<string id="mod_m5_a16_pyl9_dai_work_dialog_1_txt">
+<text>Работа? Конечно, есть! Фанатики пытаются блокировать нам связь с институтом. Но, мы вычислели координаты мест, откуда идут сигналы этих самых помех. Нужно нейтрализовать глушилки, понимаешь? ... Работа серьёзная, и кому попало давать её не вариант. А о тебе, вроде как: хорошие отзывы у всех. Ты, надёжный человек. Так что я бы могла поручить это задание тебе.</text>
+</string>
+<string id="mod_m5_a16_pyl9_dai_work_dialog_2_txt">
+<text>Мне нужно уничтожить помехи и всё?</text>
+</string>
+<string id="mod_m5_a16_pyl9_dai_work_dialog_22_txt">
+<text>Хмм, не интересует, извини.</text>
+</string>
+<string id="mod_m5_a16_pyl9_dai_work_dialog_3_txt">
+<text>Да. Но, возможно, они будут охраняться монолитовцами, так что стоит быть осторожнее.</text>
+</string>
+<string id="mod_m5_a16_pyl9_dai_work_dialog_4_txt">
+<text>Задачу я понял. Вернусь, когда всё сделаю.</text>
+</string>
+
+<string id="mod_m4_a16_lixoi_end_work_dialog_0_text">
+<text>Ну, так-то нашёл я твой ценный груз уже, прямиком с "разбитого" конвоя. Смотри.</text>
+</string>
+<string id="mod_m4_a16_lixoi_end_work_dialog_1_text">
+<text>Да? Ха-ха! Отлично! Крамер! Ты реально молодец! Вот твоя награда, а ты ведь действительно постарался... Хе-хе... Ну, теперь мы конечно заживём.</text>
+</string>
+<string id="mod_m4_a16_lixoi_end_work_dialog_2_text">
+<text>Ну и отлично.</text>
+</string>
+
+<string id="mod_a16_bar_lixoi_trade_pda_9_dialog_0_txt">
+<text>Прибор какой-то обнаружил: на месте где был атакован военный конвой, вот - глянь.</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_9_dialog_1_txt">
+<text>Хм-мм... Странная какая-то ерундатень! Ну да ладно, 4 тысячи рублей за него дам. Ты в деле?</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_9_dialog_2_txt">
+<text>В деле, держи.</text>
+</string>
+
+<string id="mod_a16_bar_lixoi_trade_pda_8_dialog_0_txt">
+<text>Смотри, ноутбук нашёл: на месте где был атакован военный конвой, вот - глянь.</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_8_dialog_1_txt">
+<text>Очень хорошо... Даю за него 11 тысяч. Идёт?</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_8_dialog_2_txt">
+<text>Идёт, держи.</text>
+</string>
+
+<string id="mod_a16_bar_lixoi_trade_pda_7_dialog_0_txt">
+<text>Нашёл документы, на месте где был атакован военный конвой, вот - глянь.</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_7_dialog_1_txt">
+<text>Угу... Много информации, хорошо.... Очень хорошо. Даю 5 тысяч. Добро?</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_7_dialog_2_txt">
+<text>Добро, держи.</text>
+</string>
+
+<string id="mod_a16_bar_lixoi_trade_pda_6_dialog_0_txt">
+<text>У меня есть флешка, нашёл её на месте где атаковали военный конвой, вот - глянь.</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_6_dialog_1_txt">
+<text>Оп-па... Полезная штука, думаю: тысячи на 4, потянет. Продаёшь?</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_6_dialog_2_txt">
+<text>Да, продаю.</text>
+</string>
+
+<string id="mod_a16_bar_lixoi_trade_pda_5_dialog_0_txt">
+<text>У меня есть медальон, нашёл его на месте военного конвоя, вот - глянь.</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_5_dialog_1_txt">
+<text>Интерсная безделушка... Даже готов дать за неё тысяч 5, идёт?</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_5_dialog_2_txt">
+<text>Идёт. Держи.</text>
+</string>
+
+
+
+<string id="mod_m4_a16_lixoi_dai_work_dialog_0_txt">
+<text>Слушай, может есть работа?</text>
+</string>
+<string id="mod_m4_a16_lixoi_dai_work_dialog_1_txt">
+<text>Есть одно дельце, Крамер. Недавно, конвой военных: был разбит фанатиками... Думаю, всё полезное и интересное оттуда ещё не растащили... А мне были бы полезны их документы, пда, флешки, может даже ноутбуки с собой везли, чёрт их знает... Но это всё мелочи. Они провозили какой-то важный груз и если он ещё там - я должен быть первым, кто его получит, понимаешь, да? Поэтому если найдёшь там что-нибудь ценное - деньгами не обижу, поверь.</text>
+</string>
+<string id="mod_m4_a16_lixoi_dai_work_dialog_2_txt">
+<text>Я тебя понял.</text>
+</string>
+
+<string id="mod_m4_a16_plague_doctor_quest_dialog_0_text">
+<text>Док. Так что на счёт этого артефакта? Можете рассказать о нём поподробнее?</text>
+</string>
+<string id="mod_m4_a16_plague_doctor_quest_dialog_1_text">
+<text>Артефакт этот - мистического происхождения. По крайней мере, на данный момент, никакими "силами природы", наукой да и Зоной - его объяснить так и не смогли... Да и редкий он очень. Возможно, потому что его владельцы, как правило, долго не живут...</text>
+</string>
+<string id="mod_m4_a16_plague_doctor_quest_dialog_2_text">
+<text>Понятно. Он нужен вам, док?</text>
+</string>
+<string id="mod_m4_a16_plague_doctor_quest_dialog_3_text">
+<text>Можно сказать и так... Вот только, боюсь я тоже "усну" - если гляну на него. А вот ты - видимо можешь с ним справиться. Мне нужна твоя помощь.</text>
+</string>
+<string id="mod_m4_a16_plague_doctor_quest_dialog_4_text">
+<text>Что конкретно вам нужно от меня?</text>
+</string>
+<string id="mod_m4_a16_plague_doctor_quest_dialog_5_text">
+<text>По легенде, этот артефакт позволяет разговаривать с мёртвыми. Есть даже вполне оправданные тому доказательства... Я... Мне нужно поговорить с одним старым другом, но он погиб, здесь, в Зоне. Естественно не за спасибо, я прошу твоей помощи. Твой труд и вклад, в мою просьбу - очень высоко оценятся. Не сомневайся.</text>
+</string>
+<string id="mod_m4_a16_plague_doctor_quest_dialog_6_text">
+<text>Но это же безумно, разве нет? Да и не уверен я, что справлюсь с ним. Когда я засматриваюсь на артефакт: вот-вот и тоже захочу спать. Не думаю, что это безопасно.</text>
+</string>
+<string id="mod_m4_a16_plague_doctor_quest_dialog_7_text">
+<text>Но ты можешь это контролировать, Крамер. Любой другой на твоём месте, сразу бы и уснул, с концами... Ты же, остаёшься в подчинении своего разума. Это и есть ключ... Ты - ключ.</text>
+</string>
+<string id="mod_m4_a16_plague_doctor_quest_dialog_8_text">
+<text>Эм... Слушайте, Док... Мне нужно подумать. Это риск. Любопытно конечно... Но, любопытство многих убивает... По крайней мере, здесь - в Зоне. Держите артефакт, делайте с ним что хотите.</text>
+</string>
+<string id="mod_m4_a16_plague_doctor_quest_dialog_9_text">
+<text>Спасибо, но... без тебя, у меня не выйдет ничего, нет ни малейшего шанса... Да, я понимаю, Крамер. Что ж... Останусь пока тут. Если вдруг ты осмелишься помочь мне - я буду ждать...</text>
+</string>
+
+<string id="mod_m3_a16_medic_kirillov_end_work_dialog_0_text">
+<text>Вот твой цветок, держи.</text>
+</string>
+<string id="mod_m3_a16_medic_kirillov_end_work_dialog_1_text">
+<text>Хух... Хорошо что всё обошлось. Спасибо! Вот твоя награда, заслужил... Ну, сейчас я и начну его тестировать...</text>
+</string>
+<string id="mod_m3_a16_medic_kirillov_end_work_dialog_2_text">
+<text>Вот и ладушки, вот и хорошо.</text>
+</string>
+
+<string id="mod_m3_a16_medic_kirillov_dai_work_dialog_0_txt">
+<text>Есть работа?</text>
+</string>
+<string id="mod_m3_a16_medic_kirillov_dai_work_dialog_1_txt">
+<text>Работа? Ну... Как сказать, поручение одно есть. Мне нужен цветок один аномальный, мне подсказали: что искать его нужно в районе детского садика... Сам я правда - боюсь туда идти... Поможешь с этим?</text>
+</string>
+<string id="mod_m3_a16_medic_kirillov_dai_work_dialog_2_txt">
+<text>Просто найти и принести цветок?</text>
+</string>
+<string id="mod_m3_a16_medic_kirillov_dai_work_dialog_22_txt">
+<text>Нет уж. Сам таким занимайся.</text>
+</string>
+<string id="mod_m3_a16_medic_kirillov_dai_work_dialog_3_txt">
+<text>Ну да! С меня естественно награда! Ничего сложного... По крайней мере - для тебя, правда ведь?</text>
+</string>
+<string id="mod_m3_a16_medic_kirillov_dai_work_dialog_4_txt">
+<text>Ладно. Если буду где-то там неподалёку, осмотрюсь. Найду это растение - принесу тебе. Окей.</text>
+</string>
+
+<string id="mod_a16_prof_sokolov_two_work_dialog_0_txt">
+<text>Есть для меня ещё какая-нибудь работа?</text>
+</string>
+<string id="mod_a16_prof_sokolov_two_work_dialog_1_txt">
+<text>Эх, господин Крамер - увы но нет. Для меня сейчас важно только чтобы вы нашли артефакт "Инкубатор". Но, думаю у профессора Германа - может найтись для вас что-нибудь интересное, так что спросите у него.</text>
+</string>
+
+<string id="mod_a16_prof_german_m2_pda_dialog_0_txt">
+<text>Профессор Герман. У меня есть КПК вашего ассистента.</text>
+</string>
+<string id="mod_a16_prof_german_m2_pda_dialog_1_txt">
+<text>Правда? Я бы купил его у вас, за тысяч 9, если вы не против... Там могут остаться полезные данные об сканировании аномалий.</text>
+</string>
+<string id="mod_a16_prof_german_m2_pda_dialog_2_txt">
+<text>Хорошо, держите.</text>
+</string>
+<string id="mod_a16_prof_german_m2_pda_dialog_3_txt">
+<text>Пожалуй оставлю его пока себе.</text>
+</string>
+
+<string id="mod_a16_bar_lixoi_trade_pda_4_dialog_0_txt">
+<text>У меня есть пда, нашёл его у трупа бандита в Гастрономе, вот - глянь.</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_4_dialog_1_txt">
+<text>Бандита? В Припяти? Хм-м... Да... Удивляешь! Есть тут чем поживиться, кстати. Дам тысяч 7. Идёт?</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_4_dialog_2_txt">
+<text>Идёт. Держи.</text>
+</string>
+
+<string id="mod_a16_bar_lixoi_trade_pda_3_dialog_0_txt">
+<text>У меня есть кпк, нашёл его у трупа сталкера в Гастрономе, вот - глянь.</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_3_dialog_1_txt">
+<text>Хм-м... Ну, маршруты, схемы... Кое-что полезное да имеется. Дам за него 8 тысяч. Как, отдаёшь, не?</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_3_dialog_2_txt">
+<text>Сойдёт. Давай.</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_3_dialog_3_txt">
+<text>В другой раз. Нет.</text>
+</string>
+
+<string id="side_m2_plague_doctor_dialog_znakomstvo_0_text">
+<text>Здравствуй, сталкер. Крамер? Верно? Зови меня чумной доктор. Я узнал, что ты обладаешь артефактом - "Ловец снов". И эта новость и привела меня к тебе.</text>
+</string>
+<string id="side_m2_plague_doctor_dialog_znakomstvo_1_text">
+<text>Здравствуйте. И... Чем же я обязан такой персоне?</text>
+</string>
+<string id="side_m2_plague_doctor_dialog_znakomstvo_2_text">
+<text>Ой, я не договорил, господин. Так же, я заинтересовался вами. Ведь вы - до сих пор живой. Артефакт не убил вас... Это очень интересно... Очень!</text>
+</string>
+<string id="side_m2_plague_doctor_dialog_znakomstvo_3_text">
+<text>Ага. Значит вы что-то да знаете об этом артефакте. Я понял.</text>
+</string>
+
+<string id="mod_plague_doctor_mess_start_dialog_1_0_text">
+<text>Все мы смертны... Всех нас ждёт смерть и Ад. Кхм-кхм... Чего тебе Крамер?</text>
+</string>
+
+<string id="side_mod_art_lovec_snov_dialog_4etire_himself_0_text">
+<text>Расскажите что-нибудь про артефакт «Ловец снов»?</text>
+</string>
+<string id="side_mod_art_lovec_snov_dialog_4etire_himself_1_text">
+<text>Ох, лучше не стоит. Если вдруг вы нашли такой артефакт - мой вам совет: избавьтесь от него немедленно. Он очень опасен и к тому же не имеет никаких полезных свойств... Мы даже не хотим больше изучать его природу и возможные "плюсы".</text>
+</string>
+
+<string id="side_mod_art_lovec_snov_dialog_tri_himself_0_text">
+<text>Скажешь что-нибудь про артефакт «Ловец снов»?</text>
+</string>
+<string id="side_mod_art_lovec_snov_dialog_tri_himself_1_text">
+<text>Конечно. Можно сказать лично с этой дрянью сталкивались когда-то, правда, издалека... Сам артефакт говорят, безопасен - если долго на него не смотреть. Но каких-то полезных свойств - он не несёт. Ходит лишь легенда, что этот артефакт позволяет во сне разговаривать с мёртвыми... Только, нужны какие-то определённые условия, чтобы это сработало. Да и говорят, не каждый способен совладать с этим артефактом. Кхм... Вообщем, думаю, что просто посмотреть на него перед сном - идея очень плохая, будь уверен! Ну а больше сказать не могу, увы, не знаю... А вот правда ли это вообще или нет - это не ко мне. Потому что мне проверять это как-то не приходилось, и слава богу.</text>
+</string>
+
+<string id="side_mod_art_lovec_snov_dialog_dva_himself_0_text">
+<text>Тебе известно что-нибудь про артефакт «Ловец снов»?</text>
+</string>
+<string id="side_mod_art_lovec_snov_dialog_dva_himself_1_text">
+<text>Да. Говорят, чтот этот артефакт: усыпляет жертву, когда та долго на него смотрит... Лично мне такой артефакт не встречался. Поэтому наверняка сказать не могу. Да и если честно, не очень хотелось бы...</text>
+</string>
+
+<string id="side_mod_art_lovec_snov_dialog_himself_0_text">
+<text>Знаешь что-нибудь про артефакт «Ловец снов»?</text>
+</string>
+<string id="side_mod_art_lovec_snov_dialog_himself_11_text">
+<text>Чего-чего? Нет, не слыхали мы о таком.</text>
+</string>
+<string id="side_mod_art_lovec_snov_dialog_himself_12_text">
+<text>Хм-м... Впервые слышу.</text>
+</string>
+<string id="side_mod_art_lovec_snov_dialog_himself_13_text">
+<text>Нет. Не знаю.</text>
+</string>
+<string id="side_mod_art_lovec_snov_dialog_himself_14_text">
+<text>Нет, извини. Первый раз о таком артефакте слышим.</text>
+</string>
+
+<string id="side_mod_m2_dialog_neiz_art_0_text">
+<text>Профессор, тут ещё кое-что: в том туннеле, где я нашёл ваших людей - был ещё и артефакт. Вот, смотрите.</text>
+</string>
+<string id="side_mod_m2_dialog_neiz_art_1_text">
+<text>Да? Покажите его пожалуйста если не трудно. Так-так... О господи! Немедленно спрячьте его! Спрячьте! Уберите его!</text>
+</string>
+<string id="side_mod_m2_dialog_neiz_art_2_text">
+<text>Ладно-ладно! Спокойно! Что-то не так?</text>
+</string>
+<string id="side_mod_m2_dialog_neiz_art_3_text">
+<text>Господин Крамер, это "ловец снов"! Не смотрите на него ни в коем случае! Этот артефакт: усыпляет жертву, после чего она и умирает во сне! Выкиньте этот ужас! Он ни на что не годен! Несёт лишь опасность! Выкиньте его!</text>
+</string>
+<string id="side_mod_m2_dialog_neiz_art_4_text">
+<text>Хм... Не слышал о таком. Профессор, я достаточно долго смотрел на него! Хм... Да, я чувствовал, что хочется спать - но не так, чтобы прямо на месте и уснуть. Что это за артефакт то такой?</text>
+</string>
+<string id="side_mod_m2_dialog_neiz_art_5_text">
+<text>Мы не знаем, господин Крамер! И вам не советуем узнавать! Погиб десяток, наших сотрудников в научном институте - при попытке его изучения. Они просто засыпали и всё... Ужас! Господин Крамер, пожалуйста, унесите, спрячьте, уничтожте - да что угодно! Но... но... Не показывайте никому это, да и сами не смотрите на этот артефакт. Это какая-то мистика! Мы пытались сопоставить все возможные логические природные аналоги с ним... Это, необъяснимое творение Зоны! Я вас умоляю, избавьтесь от него, и как можно скорее! Боже... Видимо ассистент и остальные так и погибли... Но, как они только на него наткнулись? И что этот артефакт делает в Припяти... Это просто ужас...</text>
+</string>
+<string id="side_mod_m2_dialog_neiz_art_6_text">
+<text>Л-ладно. Я всё понял.</text>
+</string>
+
+<string id="side_mod_m2_dialog_work_is_complate_0_text">
+<text>Профессор. Ваш ассистент и его сопровождение мертвы.</text>
+</string>
+<string id="side_mod_m2_dialog_work_is_complate_1_text">
+<text>Что-что? Но как?! Что с ними произошло? Они ведь совсем недавно выходили со мной на связь!</text>
+</string>
+<string id="side_mod_m2_dialog_work_is_complate_2_text">
+<text>Следов от бойни нет. Будто бы они просто разом решили уснуть: навечно. Вот, это же нашивка вашего ассистента, верно? Держите.</text>
+</string>
+<string id="side_mod_m2_dialog_work_is_complate_3_text">
+<text>Господи... Как же так... Действительно... Их кпк перестали работать, и индикаторы жизни тоже... О нет... Что же там могло произойти... Эх... Извините, господин Крамер, что так вышло. Вот, это вам - в качестве компенсации. Ещё раз извините.</text>
+</string>
+<string id="side_mod_m2_dialog_work_is_complate_4_text">
+<text>Без проблем.</text>
+</string>
+
+<string id="side_mod_m2_dialog_dai_mne_work_0_text">
+<text>Есть для меня работа?</text>
+</string>
+<string id="side_mod_m2_dialog_dai_mne_work_1_text">
+<text>Конечно, господин Крамер. Нам как раз необходим ещё один человек для охраны нашего научного сотрудника. Ему нужно обследовать некоторые аномалии в Припяти. Но он не согласен на это, пока ему не предоставят достаточное, по его мнению, количество людей для охраны. Потому что как мы выяснили, при сканировании аномалий - наши приборы привлекают местных мутантов... Вы - как раз бы не помешали. С вашим то боевым опытом, рядом с вами: не будет страшно никому.</text>
+</string>
+<string id="side_mod_m2_dialog_dai_mne_work_2_text">
+<text>Хорошо. Где мне его найти? И... Что по деньгам, за эту работу?</text>
+</string>
+<string id="side_mod_m2_dialog_dai_mne_work_22_text">
+<text>Не интересует. Извините.</text>
+</string>
+<string id="side_mod_m2_dialog_dai_mne_work_3_text">
+<text>Ах, так вы соглашаетесь? Правда? Отлично! Заплатим мы очень щедро, не волнуйтесь: если всё пройдёт гладко - вы получите не менее 20 тысяч рублей за одну исследованную аномалию, главное чтобы сотрудник с данными вернулся целым и невредимым. Кхм... Они сейчас, наверное, направились в Гастроном, точнее под него. Ассистент обнаружил там скопление аномальных образований среди старых подвалов. Я предупрежу их о вашем визите. Они будут ждать вас там!</text>
+</string>
+<string id="side_mod_m2_dialog_dai_mne_work_4_text">
+<text>Понял. Приступаю.</text>
+</string>
+
+
+
+<string id="side_mod_m1_dialog_stalker_thanxks_0_text">
+<text>Спасибо тебе сталкер... Я думал, что мне конец.</text>
+</string>
+<string id="side_mod_m1_dialog_stalker_thanxks_1_text">
+<text>Как же вы так попали то на бандюг? Да ещё и в Припяти.</text>
+</string>
+<string id="side_mod_m1_dialog_stalker_thanxks_2_text">
+<text>А фиг его знает, друг! Реально, сами не ожидали здесь этих гопников встретить... Мда... Пацанов жаль... Бой сразу дали... Не вывезли, правда... Эх. Слушай, дружище: спасибо тебе, правда. Вот, это всё что у меня есть, держи. Буду в лагере, обязательно о тебе расскажу, ты мне жизнь спас!</text>
+</string>
+<string id="side_mod_m1_dialog_stalker_thanxks_3_text">
+<text>Ну что ж, спасибо и тебе. Удачи.</text>
+</string>
+
+
+
+<string id="und_mod_b900_remark_quest_dialog_0_text">
+<text>А ты настойчивый, да?</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_1_text">
+<text>Может, наконец-то просто поговорим? Спокойно тут так, не спеша... У меня к тебе пару вопросов.</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_2_text">
+<text>Ха-ха! Всего пару вопросов? Не врёшь? Ха-ха! Почему бы и нет? Давай... С удовольствием! Слушаю тебя.</text>
+</string>
+
+<string id="und_mod_b900_remark_quest_dialog_3_text">
+<text>Кто ты?</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_33_text">
+<text>Что со мной происходит?</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_333_text">
+<text>Почему ты отдал мне артефакт?</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_3333_text">
+<text>Зачем ты помогал мне?</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_33333_text">
+<text>Чего ты добиваешься?</text>
+</string>
+
+<string id="und_mod_b900_remark_quest_dialog_20_text">
+<text>В Прачечной, в ноутбуке - была видеозапись. На ней: ты, Лелиана и твой отряд в целом. На самом деле тебя там не было?</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_40_text">
+<text>Если тебя не существует - что было в госпитале? Откуда я тогда нашёл артефакт? М-м?</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_60_text">
+<text>Артефакт - "Инкубатор". Что из себя представляет? Если бы я отдал его учёным, что бы произошло?</text>
+</string>
+
+<string id="und_mod_b900_remark_quest_dialog_4_text">
+<text>Ха-ха! Самый очевидный вопрос от тебя, Крамер. Я уже говорил - я, это ты.</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_44_text">
+<text>Не знаю, Крамер. Возможно ты мутируешь... Становишься, "лучше". Я так считаю.</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_444_text">
+<text>Потому что ты этого хотел. Разве нет?</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_4444_text">
+<text>Ты сам себе помогал, Крамер. Я - не существую, пойми уже это.</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_44444_text">
+<text>Я? Ха-ха... Добиваюсь? Задай этот вопрос себе, Крамер. Это ты меня создал, в своей голове...</text>
+</string>
+
+<string id="und_mod_b900_remark_quest_dialog_30_text">
+<text>Трансляцию делала Лелиана со своими бойцами. А меня там не было, по известной тебе причине... Ха-ха!</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_50_text">
+<text>Ты сам его нашёл, на речном порту, у причала. Но почему-то не замечал этого сам. Любопытные игры затеяла твоя головушка, правда?</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_70_text">
+<text>Не знаю, Крамер. У меня столько же знаний, сколько и у тебя. Пойми ты уже наконец, кто я...</text>
+</string>
+
+<string id="und_mod_b900_remark_quest_dialog_5_text">
+<text>%c[0,140,140,140][..далее..]</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_6_text">
+<text>Что-нибудь ещё хочешь узнать?</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_7_text">
+<text>С меня хватит. Я всё-равно ничего не понял.</text>
+</string>
+
+<string id="und_mod_b900_remark_quest_dialog_8_text">
+<text>Думаешь, мне, нравится сидеть в твоей голове? Нравится сводить тебя с ума? Эх, Крамер-Крамер... Ты создал меня, дал мне личность. Придумал мне образ, дал мне - "жизнь". Но меня всё так же нет. Я не существовал и не существую. Всё было лишь в твоей голове, братишка.</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_9_text">
+<text>И... Что теперь?</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_10_text">
+<text>Хочешь всё это остановить? Ха-ха! Крамер... Ты знаешь, что нужно сделать, чтобы со всем этим покончить. И... Тебе не долго осталось, в любом, случае... А я буду жить в твоей голове столько же, сколько живёшь ты.</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_11_text">
+<text>Предлагаешь, пустить пулю себе в лоб? Что значит, недолго осталось?</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_12_text">
+<text>Предлагаю? Крамер, хватит разговаривать с самим собой. Просто сделай то что считаешь нужным. Хватит вопросов...</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_13_text">
+<text>Как-то, не перспективно у меня, с выбором. Я схожу с ума, к чёрту это всё. Я устал... %c[255,1,255,255][выстрелить себе в лоб]</text>
+</string>
+<string id="und_mod_b900_remark_quest_dialog_13_2_text">
+<text>Ну нет, хрен ты дождёшься моей смерти! Думаю, что я всё-таки проверю кое-что... %c[255,248,153,26][выстрелить в Ремарка]</text>
+</string>
+
+
+
+<string id="und_mod_b900_leliana_quest_dialog_0_text">
+<text>Моя голова... Я... Я.... Что ты... Что ты сейчас сделал, Крамер?!</text>
+</string>
+<string id="und_mod_b900_leliana_quest_dialog_1_text">
+<text>Я... я не знаю! Это... Это вышло само по себе, как-то! С тобой всё в порядке?</text>
+</string>
+<string id="und_mod_b900_leliana_quest_dialog_2_text">
+<text>Боже... А твой крик... Ты слышал себя? Ты... Умгх... Голова раскалывается...</text>
+</string>
+<string id="und_mod_b900_leliana_quest_dialog_3_text">
+<text>Бред какой-то... Это всё проделки Ремарка, я уверен!</text>
+</string>
+<string id="und_mod_b900_leliana_quest_dialog_4_text">
+<text>Кого? Да кто такой этот твой Ремарк? Что с тобой? Эй...</text>
+</string>
+<string id="und_mod_b900_leliana_quest_dialog_5_text">
+<text>Лелиана, это не смешно. Ну, Ремарк! Ты же на него работала, была у него в команде. Не до приколов сейчас, слышишь? Эй, со мной... со мной что-то не так?</text>
+</string>
+<string id="und_mod_b900_leliana_quest_dialog_6_text">
+<text>Крамер, ты меня сильно пугаешь. Я не знаю никакого Ремарка. Что ты несёшь? Ау! Мы пришли сюда, чтобы спрятать артефакт, который ты нашёл. Верно?</text>
+</string>
+<string id="und_mod_b900_leliana_quest_dialog_7_text">
+<text>Д-да... Верно. М-мы... Пришли сюда, чтобы спрятать артефакт... Так... Нужно успокоиться. Видимо, я просто схожу с ума. Чёрт. Стоп... Кхм... Так а что с артефактом? Ты... Ты нашла куда его спрятать?</text>
+</string>
+<string id="und_mod_b900_leliana_quest_dialog_8_text">
+<text>Да. Я спрятала его в диспетчерской, в надёжном контейнере. Уж туда-то, точно уже никто не доберётся. А ты как? Идти сможешь?</text>
+</string>
+<string id="und_mod_b900_leliana_quest_dialog_9_text">
+<text>Думаю да, могу... Пошли отсюда. Мне тут всё больше и больше не по себе... Уходим. %c[255,248,153,26]•</text>
+</string>
+<string id="und_mod_b900_leliana_quest_dialog_99_text">
+<text>Иди Лелиана, а я скоро тебя догоню. Мне нужно ещё кое-кого найти... Короче, встретимся немного позже, на поверхности! %c[255,1,255,255]•</text>
+</string>
+
+
+
+<string id="mod_inkub_a16_y11_leliana_quest_dialog_0_text">
+<text>Лелиана. Артефакт я отдал, что теперь? Ты, пойдёшь к учёным?</text>
+</string>
+<string id="mod_inkub_a16_y11_leliana_quest_dialog_1_text">
+<text>Неа, голубчик. Не будем мы его отдавать учёным. Я соврала тебе о том, что хочу получить за него деньги. Ну... Теперь мы квиты. Спасибо тебе, что не сбежал с артефактом. Теперь, нужно от него избавиться.</text>
+</string>
+<string id="mod_inkub_a16_y11_leliana_quest_dialog_2_text">
+<text>Чего? Эм... А ты не перестаёшь меня удивлять... И, что будешь с ним делать?</text>
+</string>
+<string id="mod_inkub_a16_y11_leliana_quest_dialog_3_text">
+<text>Этот артефакт очень опасен. Если его начнут изучать, что-нибудь: точно да выйдет из под контроля... И возможно, будут очень печальные последствия. Его нельзя лишний раз "трогать", понимаешь? Пожалуй, его лучше спрятать, там где до него никто не доберётся.</text>
+</string>
+<string id="mod_inkub_a16_y11_leliana_quest_dialog_4_text">
+<text>Хм-м... Есть идеи, куда его заныкать?</text>
+</string>
+<string id="mod_inkub_a16_y11_leliana_quest_dialog_5_text">
+<text>Да. Под Припятью, есть старый путепровод П-1. Думаю, я найду, куда его запрятать.</text>
+</string>
+<string id="mod_inkub_a16_y11_leliana_quest_dialog_6_text">
+<text>Пошли тогда прятать, я в это ввязался - я и помогу. Чего уж медлить, пойдём.</text>
+</string>
+<string id="mod_inkub_a16_y11_leliana_quest_dialog_7_text">
+<text>Да... Пойдём... Только, я боюсь: что Ремарк - не даст нам так просто с этим покончить.</text>
+</string>
+<string id="mod_inkub_a16_y11_leliana_quest_dialog_8_text">
+<text>Он сам мне отдал этот артефакт, там, в госпитале...</text>
+</string>
+<string id="mod_inkub_a16_y11_leliana_quest_dialog_9_text">
+<text>А? Чего? Ты о ком? Ой, да, точно.... Ладно. Давай поторопимся, мне кажется, он скоро вернётся за ним... Или... За нами...</text>
+</string>
+<string id="mod_inkub_a16_y11_leliana_quest_dialog_10_text">
+<text>Вперёд!</text>
+</string>
+<string id="mod_inkub_a16_y11_leliana_quest_dialog_100_text">
+<text>Подожди минуту, сейчас вернусь.</text>
+</string>
+<string id="mod_inkub_a16_y11_leliana_quest_dialog_200_text">
+<text>Какую минуту, Крамер?! Каждая секунда на счету. Пошли уже!</text>
+</string>
+<string id="mod_inkub_a16_y11_leliana_quest_dialog_300_text">
+<text>Ой... Ну ладно, идём!</text>
+</string>
+
+<string id="mod_inst_p27_girl_afina_himself_dialog_0_text">
+<text>%c[0,140,140,140]Вы, Афина? Да, это вы. Я знаю про вас. Вы были в команде с Наёмником Хмурым, верно?</text>
+</string>
+<string id="mod_inst_p27_girl_afina_himself_dialog_1_text">
+<text>Ох... Было дело, давняя история. Не хотелось бы об этом сейчас говорить, молодой человек.</text>
+</string>
+<string id="mod_inst_p27_girl_afina_himself_dialog_2_text">
+<text>Как скажете. Но, я рад знакомству.</text>
+</string>
+
+<string id="mod_inst_p27_girl_dva_himself_dialog_0_text">
+<text>%c[0,140,140,140]А тебя я не помню, красавица. Ха! Может, познакомимся?</text>
+</string>
+<string id="mod_inst_p27_girl_dva_himself_dialog_1_text">
+<text>Ха-ха! А ты дамский угодник смотрю, да, yes? Ой, прости, где мои манеры! Меня Авророй кличут, you know? Прибыла из секретной военной зоны в США. Сотрудничаю с учёными из вашей Зоны отчуждения... From, хах... America, you, okey?</text>
+</string>
+<string id="mod_inst_p27_girl_dva_himself_dialog_2_text">
+<text>Иностранка получается... Прикольно, будем знакомы!</text>
+</string>
+
+<string id="mod_inst_p27_girl_tri_himself_dialog_0_text">
+<text>Бьянка!? И что же такая известная сталкерша-проводница: делает в этом научном центре?</text>
+</string>
+<string id="mod_inst_p27_girl_tri_himself_dialog_1_text">
+<text>Ну Крамер, ты как всегда, блин! Хах! Давно же мы не виделись, с тобой... Кхм.... Я, да вот, на учёных работать начала, как и ты, верно? ... видимо, да. Да ладно, у меня-то всё по-старому. Сам как? Что расскажешь мне?</text>
+</string>
+<string id="mod_inst_p27_girl_tri_himself_dialog_2_text">
+<text>Ай, Бьянка, нечего мне рассказывать. Я много чего повидал, и, много чего в итоге упустил...</text>
+</string>
+<string id="mod_inst_p27_girl_tri_himself_dialog_3_text">
+<text>Да ну? Врёшь ты всё! О тебе слухов да легенд ходит, не пересчитать. А поэм да страшных историй то сколько сочиняют каждый день! Думаешь, брешут всё?</text>
+</string>
+<string id="mod_inst_p27_girl_tri_himself_dialog_4_text">
+<text>Ну конечно. Брешут-брешут...</text>
+</string>
+
+<string id="mod_inst_p26_girl_hip_himself_dialog_0_text">
+<text>%c[0,140,140,140]Ты мне кого-то напоминаешь. Мы раньше случайно, не встречались?</text>
+</string>
+<string id="mod_inst_p26_girl_hip_himself_dialog_1_text">
+<text>Чего-чего? Нет. Ты меня с кем-то путаешь, сталкер. Я Марико, "типа сталкерша". Но, в Зоне бываю очень редко.</text>
+</string>
+<string id="mod_inst_p26_girl_hip_himself_dialog_2_text">
+<text>А я Крамер. Теперь будем знакомы.</text>
+</string>
+
+<string id="mod_hip_mess_start_dialog_0_text">
+<text>М? Ой, ну, привет, сталкер. Чего-то хотел?</text>
+</string>
+
+<string id="mod_bianka_mess_start_dialog_0_text">
+<text>Здравствуй, Крамер! Хм-м... Не ожидала я тебя здесь увидеть.</text>
+</string>
+
+<string id="mod_aurora_mess_start_dialog_0_text">
+<text>Привет, красавчик. Hello!</text>
+</string>
+
+<string id="mod_afina_mess_start_dialog_0_text">
+<text>Вы... кажется Крамер, верно? Что ж, здравствуйте.</text>
+</string>
+
+<string id="mod_inst_p27_doc_mess_start_dialog_1_0_text">
+<text>Здравствуйте, господин Крамер. Как ваше здоровье?</text>
+</string>
+
+	<string id="mod_p27_ecolog_medic_need_health_care_0">
+		<text>Мне нужна медицинская помощь, доктор. %c[255,248,153,26]•</text>
+	</string>
+	<string id="mod_p27_ecolog_medic_need_health_care_1">
+		<text>Всегда рад помочь, молодой человек! Давайте глянем, что с вами?</text>
+	</string>
+	<string id="mod_p27_ecolog_medic_need_health_care_111">
+		<text>Готово! Вы здоровы как бык, молодой человек.</text>
+	</string>
+	<string id="mod_p27_ecolog_medic_need_health_care_2">
+		<text>Сейчас посмотрим... Ух, молодой человек... Вашему-то здоровью, любой тут позавидует: будьте уверены!</text>
+	</string>
+	<string id="mod_p27_ecolog_medic_need_health_care_11">
+		<text>%c[0,140,140,140][..далее..]</text>
+	</string>
+
+<string id="mod_inst_p27_mex_mess_start_dialog_1_0_text">
+<text>Что-то починить? Или так, поболтать ко мне зашёл?</text>
+</string>
+
+<string id="mod_inkub_u80_ecolog_sokolov_scenario_dialog_0_text">
+<text>Профессор. %c[255,248,153,26]Артефакт: "ИНКУБАТОР" - у меня.</text>
+</string>
+<string id="mod_inkub_u80_ecolog_sokolov_scenario_dialog_1_text">
+<text>Не может быть! Правда? Давайте его скорее сюда! Хочу поскорее начать эксперимент с ним! Где же он?!</text>
+</string>
+<string id="mod_inkub_u80_ecolog_sokolov_scenario_dialog_2_text">
+<text>А деньги? Полмиллиона, а учитывая обстоятельства - пару сотен сверху, как и договаривались, помните?</text>
+</string>
+<string id="mod_inkub_u80_ecolog_sokolov_scenario_dialog_3_text">
+<text>Конечно-конечно! Господин Крамер, вот ваши деньги, передайте мне артефакт, прошу вас! Хочу поскорее начать его исследование!</text>
+</string>
+<string id="mod_inkub_u80_ecolog_sokolov_scenario_dialog_4_text">
+<text>Держите.</text>
+</string>
+<string id="mod_inkub_u80_ecolog_sokolov_scenario_dialog_5_text">
+<text>Великолепно! Спасибо! Вы стали частью великого научного достижения и прогресса человечества! Давайте же вместе вершить историю будушего! Бесконечного, будущего! По истине, атомного, и безграничного создания электроэнергии!</text>
+</string>
+<string id="mod_inkub_u80_ecolog_sokolov_scenario_dialog_6_text">
+<text>Весьма рад, вашим восторгам! Давайте вершить историю!</text>
+</string>
+<string id="mod_inkub_u80_ecolog_sokolov_scenario_dialog_11_text">
+<text>Шутка. Я ещё ищу его. Хах. Скоро вернусь!</text>
+</string>
+
+<string id="mod_y4_inkub_leliana_quest_dialog_0_txt">
+<text>Умгх... Где же чёртов Ремарк? Крамер?!</text>
+</string>
+<string id="mod_y4_inkub_leliana_quest_dialog_1_txt">
+<text>Лелиана, артефакт у меня. Пошли в прачечную.</text>
+</string>
+<string id="mod_y4_inkub_leliana_quest_dialog_2_txt">
+<text>Дай мне ещё минуту. Я осмотрюсь, может этот Ремарк, где-то совсем рядом.</text>
+</string>
+
+<string id="mod_true_y4_ink_remark_dialog_is_awtfff_art_0_txt">
+<text>Не надоело ещё это всё? А? ... Крамер-Крамер!</text>
+</string>
+<string id="mod_true_y4_ink_remark_dialog_is_awtfff_art_1_txt">
+<text>Что ты такое?</text>
+</string>
+<string id="mod_true_y4_ink_remark_dialog_is_awtfff_art_2_txt">
+<text>Я это ты, Крамер. Осколок тебя... Сам, мать твою, не знаю, как ты меня создал. Но это твоих рук дело.</text>
+</string>
+<string id="mod_true_y4_ink_remark_dialog_is_awtfff_art_3_txt">
+<text>Бред. С чего ты взял что я в это поверю?</text>
+</string>
+<string id="mod_true_y4_ink_remark_dialog_is_awtfff_art_4_txt">
+<text>А мне и не нужно чтобы ты мне поверил. Держи, кажется, ты за этой штуковиной гоняешься, верно? Ха-ха! Забирай! Потом пожалеешь, будь уверен.</text>
+</string>
+<string id="mod_true_y4_ink_remark_dialog_is_awtfff_art_5_txt">
+<text>Что? Вот так, просто, отдаёшь его? ... В чём подвох? Эй!</text>
+</string>
+
+<string id="mod_a16_leliana_rasskaz_dva_o_sebe_dialog_0_txt">
+<text>%c[0,140,140,140]Может, расскажешь о себе, Лелиана.</text>
+</string>
+<string id="mod_a16_leliana_rasskaz_dva_o_sebe_dialog_1_txt">
+<text>Да ты и так уже знаешь обо мне всё... Разве нет?</text>
+</string>
+
+<string id="mod_y3_inkub_leliana_quest_dialog_0_text">
+<text>Так, последний сигнал был где-то здесь... Всем тихо! ... Не шуметь. Осмотримся здесь... Они не могли просто исчезнуть. Крамер, осмотрись в зданиях, окей?</text>
+</string>
+<string id="mod_y3_inkub_leliana_quest_dialog_1_text">
+<text>Понял. Принял.</text>
+</string>
+
+<string id="mod_y2_inkub_leliana_quest_dialog_0_text">
+<text>Есть! Нашла их... Хм.. Сигнал шёл из госпиталя, но, резко пропал.</text>
+</string>
+<string id="mod_y2_inkub_leliana_quest_dialog_1_text">
+<text>Какой план?</text>
+</string>
+<string id="mod_y2_inkub_leliana_quest_dialog_2_text">
+<text>Очевидно же! Пулей мчимся туда!</text>
+</string>
+<string id="mod_y2_inkub_leliana_quest_dialog_3_text">
+<text>Хорошо. Двинулись!</text>
+</string>
+
+
+
+<string id="mod_y1_inkub_leliana_quest_dialog_0_text">
+<text>Крамер? А ты что тут забыл?</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_1_text">
+<text>Да вот, к тебе спешил. Нужна твоя помощь... Эм, а что случилось с профессором Кипарисом? Кто его так, прихлопнул... Ты?</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_2_text">
+<text>Да я. Он... Идиот. Пытался всех нас убить.</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_3_text">
+<text>Нас?</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_4_text">
+<text>Да. Меня, Карпа и Хмурого. Думаю, о них ты слышал... Очень ли знаешь, известные личности, в отличии от тебя!</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_5_text">
+<text>Хм. Те самые? Знаю про них... Про их - контракт. Когда-то много шума они наделали в Зоне. Вроде, один уничтожил лабораторию СЕКТОР-11 в окрестностях "Купола". Второй же, помогал ему а так же умирал и возраждался... Слышал, что они покинули Зону, что ж они вновь объявились то? И, откуда, конкретно ты: с ними знакома?</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_6_text">
+<text>Ой, да какая уже разница? Я позвала их, благо, они уже были в Зоне, слава богу... Ну так зачем ты пришёл? Неужели соскучился?</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_7_text">
+<text>Эх, хотел бы я сказать: что именно так... Но, я по делу. Мне нужно найти Ремарка. Артефакт либо у него, либо он знает, где его найти.</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_8_text">
+<text>Кого? Эх... Крамер... Не лезь в это, серьёзно. Мы как раз и собираемся... Так, стоп, нет. Это не твоё дело!</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_9_text">
+<text>Ты же знаешь, как его найти? Слушай... Ремарк - снова разговаривал со мной, совсем недавно. Говорил, что артефакт у него... Что такого в этом артефакте? Ну правда, расскажи мне.</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_10_text">
+<text>Да не верь ты этому психу! Кто разговаривал? О чём ты? ... Кхм... Ладно, я сама виновата. Чёрт, как я могла вообще ему верить. Он предал меня, отряд и наши цели.</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_11_text">
+<text>Лелиана, ты если уже говоришь отрывками о чём-то: то договаривай до конца, пожалуйста. Ты знаешь то что мне нужно. Говоришь об этом издалека - но не хочешь ввести меня в курс дела. Прошу, доверься мне. Расскажи всё как есть - и может я плюну на этот чёртов артефакт и даже чем-то помогу тебе.</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_12_text">
+<text>Мг... Я уже поверила тебе один раз. Что из этого вышло? М-м? Напомнить?</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_13_text">
+<text>Но, всё же обошлось! Я попал в событие, о котором не знаю ничего, но уверен в том: что тесно с ним связан, будто, кто-то играет со мной издалека. Пойми, мне всё это не нравится, но я должен знать, что происходит, Лелиана!</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_14_text">
+<text>Давай так. Я расскажу тебе всё, что сама понимаю и знаю. А ты, соберёшься и молча уйдёшь, идёт?</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_15_text">
+<text>Да почему ты меня прогоняешь всё время? Ты даже это мне объяснить не можешь!</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_16_text">
+<text>Достал... Ладно, Крамер. Слушай... Я - Наёмник. Я тоже ищу этот артефакт. Карп и Хмурый, мои старые знакомые. Вызвала их, чтобы помогли, по старой дружбе, естественно я знала что они сейчас в Зоне. У них тут, свои дела, у меня свои... Но они отозвались, теперь шансов у меня гораздо больше. Я - следила за Ремарком на протяжении двух месяцев, после чего смогла втереться к нему в доверие. Стала членом его отряда. Вообще, отрядом это сложно назвать, несколько бойцов во главе с ним... Да и больше это похоже на секту, что ли... Не суть. Я, так же как и ты - хочу этот артефакт. За него обещают очень большие деньги, и уж, не обижайся, но делиться я не собираюсь. Я долго готовилась, долго шла к этому. А недавно я узнала, что Ремарк - знает тебя, и всё пошло не по плану. Ты постоянно упоминаешь его, а я уже ничего не понимаю... Короче, ты - главная проблема. Понятно тебе? Что ещё ты хочешь услышать? М-м?</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_17_text">
+<text>Ого... Так ты двойной агент. А такой "правильной" казалась... Ну, что ж, эта жизнь любит подкидывать сюрпризы. Значит, ты просто хочешь найти этот артефакт? Сдать его учёным и получить деньги? И всё?</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_18_text">
+<text>Именно так, Крамер. Именно, так.</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_19_text">
+<text>Тогда, может объединим наши усилия? На награду претендовать не стану. Я уже слишком много сделал для этого, уверен, я как-то замешан во всём... Вообщем: я просто хочу узнать, что это за артефакт такой и что происходит со мной. Вот и всё.</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_20_text">
+<text>Дай слово! Дай мне слово, что ты не обманешь меня вновь. Иначе я пристрелю тебя прямо здесь и сейчас, клянусь богом, Крамер. Я это сделаю.</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_21_text">
+<text>Даю тебе слово. Может, мне ещё запястье порезать? Клятву кровью тебе изобразить? Я готов помочь. Даю тебе слово, Лелиана. Ну серьёзно!</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_22_text">
+<text>Хорошо. Это будет последний раз, когда я тебе верю. В случае - если твоё слово, всё-таки ничего не стоит: я буду последним человеком, чьё лицо ты увидишь перед смертью, окей? А теперь, дай мне несколько минут. Я почти нашла отряд Ремар... отряд, который сбежал с артефактом. Они шифруются, но и я не лыком шитая. Я почти обнаружила их. Не мешай.</text>
+</string>
+<string id="mod_y1_inkub_leliana_quest_dialog_23_text">
+<text>Как скажешь. Я жду.</text>
+</string>
+
+
+
+<string id="mod_inkub_y1_karp_rasskaz_o_sebe_dialog_0_txt">
+<text>%c[0,140,140,140]Карп, да? Знаю про тебя. Ты вроде прямо как птица "Феникс": умирал и возраждался. Сурово...</text>
+</string>
+<string id="mod_inkub_y1_karp_rasskaz_o_sebe_dialog_1_txt">
+<text>Ха... Было дело. Хмурый помог, "вылечил". Думали, хрен мы в Зону снова вернёмся... Но, верно всё-таки сталкеры говорят: Зона никого не отпускает.</text>
+</string>
+
+<string id="mod_inkub_y1_xmyrie_rasskaz_o_sebe_dialog_0_txt">
+<text>%c[0,140,140,140]Слышал о тебе... Хмурый. Ты вроде как легенда в Зоне.</text>
+</string>
+<string id="mod_inkub_y1_xmyrie_rasskaz_o_sebe_dialog_1_txt">
+<text>Пф... Легенда? Да к чёрту... Контракт оказался полным провалом. Личная жизнь не удалась, враги оказались друзьями... Я не знаю, что здесь "легендарного". Тьфу.</text>
+</string>
+
+<string id="mod_y1_xmyrie_mess_start_dialog_1_0_text">
+<text>Чем обязан?</text>
+</string>
+<string id="mod_y1_karp_mess_start_dialog_1_0_text">
+<text>Хм, привет, что ли...</text>
+</string>
+
+<string id="mod_a16_bar_lixoi_trade_pda_2_dialog_0_txt">
+<text>У меня есть кпк, нашёл его у трупа в КБО, вот - глянь.</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_2_dialog_1_txt">
+<text>Интересно... Очень интересно! Есть тут кое-что важн... Так... Ну, слушай, я дам за него 6 тысяч, м?</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_2_dialog_2_txt">
+<text>Да, по рукам.</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_2_dialog_3_txt">
+<text>Не, оставлю себя.</text>
+</string>
+
+<string id="lab_strelok_soldv_p33_dialog_0_txt">
+<text>Валентир, мне кажется, что Наёмники что-то замышляют. Я в этом уверен.</text>
+</string>
+<string id="lab_strelok_soldv_p33_dialog_1_txt">
+<text>Хм... Я тоже им не доверяю. Рад, что мы на одной стороне, Крамер.</text>
+</string>
+<string id="lab_strelok_soldv_p33_dialog_2_txt">
+<text>Ну, я тебя предупредил... Мало ли что произойдёт. Имей в виду.</text>
+</string>
+
+<string id="mod_a16_german_rasskaz_o_sebe_dialog_0_txt">
+<text>%c[0,140,140,140]Расскажите о себе, профессор Герман.</text>
+</string>
+<string id="mod_a16_german_rasskaz_o_sebe_dialog_1_txt">
+<text>Ой, да что обо мне то услышать можно? Обычный учёный из института. Вот, помогаю профессору Соколову, с его невероятными мечтами, о "Бесконечной электроэнергии" с его не менее "Чудестным" артефактом, который он так мечтает поскорее найти...</text>
+</string>
+
+<string id="mod_o83_hromoi_friend_phanx_dialog_0_txt">
+<text>Спасибо... Крамер... Я думал - всё. Боже... Как же ты только нашёл меня?</text>
+</string>
+<string id="mod_o83_hromoi_friend_phanx_dialog_1_txt">
+<text>Сам не знаю... Ты пропал, я и решил осмотреться. Как ты?</text>
+</string>
+<string id="mod_o83_hromoi_friend_phanx_dialog_2_txt">
+<text>Ух... Жить буду, друг. Я тут... Чёртовы Наёмники, это ж всё их рук дело. Кинули тут старика и сбежали... Эх, ладно. Немного ещё посижу... Потом, приду в лагерь, не волнуйся.</text>
+</string>
+<string id="mod_o83_hromoi_friend_phanx_dialog_3_txt">
+<text>Ну хорошо, старина.</text>
+</string>
+
+<string id="mod_o83_hromoi_help_plz_dialog_0_txt">
+<text>Ммм... Кх-кх... Кр... Крамер? Это... это ты?</text>
+</string>
+<string id="mod_o83_hromoi_help_plz_dialog_1_txt">
+<text>Хромой! Держись старик, сейчас поставлю тебя на ноги! Не переживай!</text>
+</string>
+
+<string id="mod_a16_p80_kaschei_on_radio_dialog_txt_1">
+<text>%c[3,170,170,170]Выключи радио.</text>
+</string>
+<string id="mod_a16_p80_kaschei_on_radio_dialog_txt_2">
+<text>Ну ладно-ладно, выключил.</text>
+</string>
+
+<string id="mod_a16_p80_kaschei_off_radio_dialog_txt_1">
+<text>%c[3,170,170,170]Включи радио.</text>
+</string>
+<string id="mod_a16_p80_kaschei_off_radio_dialog_txt_2">
+<text>Без проблем, вот.</text>
+</string>
+
+<string id="mod_p88_drapei_dialog_guider_to_vvodnie_0_txt">
+<text>А, Крамер! Соколов сообщил мне о тебе. Ну, так-то я к твоим услугам, если что.</text>
+</string>
+<string id="mod_p88_drapei_dialog_guider_to_vvodnie_1_txt">
+<text>Понял тебя.</text>
+</string>
+
+<string id="mod_pripyat_p86_drapei_dialog_guider_to_institut_0_txt">
+<text>Мне нужно в научный институт.</text>
+</string>
+<string id="mod_pripyat_p86_drapei_dialog_guider_to_institut_1_txt">
+<text>Ну добро, поехали... Выдвигаемся?</text>
+</string>
+<string id="mod_pripyat_p86_drapei_dialog_guider_to_institut_11_txt">
+<text>Выброс, Крамер... Вот закончится - тогда и отправимся.</text>
+</string>
+<string id="mod_pripyat_p86_drapei_dialog_guider_to_institut_2_txt">
+<text>Да, в путь.</text>
+</string>
+<string id="mod_pripyat_p86_drapei_dialog_guider_to_institut_22_txt">
+<text>Я передумал, подожди.</text>
+</string>
+<string id="mod_pripyat_p86_drapei_dialog_guider_to_institut_3_txt">
+<text>Ой, ты прав.</text>
+</string>
+
+<string id="mod_lab_p86_drapei_dialog_guider_to_pripyat_0_txt">
+<text>Мне нужно в Припять.</text>
+</string>
+<string id="mod_lab_p86_drapei_dialog_guider_to_pripyat_1_txt">
+<text>Хорошо, без проблем. Выдвигаемся?</text>
+</string>
+<string id="mod_lab_p86_drapei_dialog_guider_to_pripyat_2_txt">
+<text>Да, поехали.</text>
+</string>
+<string id="mod_lab_p86_drapei_dialog_guider_to_pripyat_22_txt">
+<text>Я передумал.</text>
+</string>
+
+
+
+<string id="mod_lab_p82_sokolov_dialog_quest_2_0_txt">
+<text>Что произошло?! Что это было? О боже мой! Куда они исчезли? Ужас!</text>
+</string>
+<string id="mod_lab_p82_sokolov_dialog_quest_2_1_txt">
+<text>Чёрт... Не знаю что это было... В одном я всё так же уверен - артефакта у них не было!</text>
+</string>
+<string id="mod_lab_p82_sokolov_dialog_quest_2_2_txt">
+<text>Но куда они исчезли? ... Что если, они сделали это с помощью артефакта, либо - артефакт сам "заставил" их исчезнуть... Я не понимаю... Боже мой! У меня куча вопросов, и нет ни одного логического объяснения, произошедшему!</text>
+</string>
+<string id="mod_lab_p82_sokolov_dialog_quest_2_3_txt">
+<text>Сам в шоке, профессор. Что ж... Раз вам так и не предоставили артефакт, может - вернём нашу сделку? Я постараюсь принести его как можно скорее. Есть у меня пару вариантов, где его начать искать...</text>
+</string>
+<string id="mod_lab_p82_sokolov_dialog_quest_2_4_txt">
+<text>Я... Ничего не понимаю... Происходит какая-то ерунда! Что ж... Да-да... Крамер, простите, я просто поражён, случившейся ситуацией... Да, конечно, продолжайте искать артефакт! Скажите Драпею, чтобы он взял транспорт и доставил вас обратно в Зону.</text>
+</string>
+<string id="mod_lab_p82_sokolov_dialog_quest_2_5_txt">
+<text>Вас понял, Соколов. Приступаю к работе.</text>
+</string>
+
+<string id="mod_lab_p81_sokolov_dialog_quest_1_0_txt">
+<text>Крамер, у вас ко мне важный разговор, верно?</text>
+</string>
+<string id="mod_lab_p81_sokolov_dialog_quest_1_1_txt">
+<text>Да. Наёмники предоставили вам артефакт?</text>
+</string>
+<string id="mod_lab_p81_sokolov_dialog_quest_1_2_txt">
+<text>Мы как раз об этом с господином "Крестом" и говорили.</text>
+</string>
+<string id="mod_lab_p81_sokolov_dialog_quest_1_3_txt">
+<text>Он вас обманывает, я уверен! Давайте поговорим в другом месте...</text>
+</string>
+
+<string id="mod_a16_kot_off_radio_dialog_txt_1">
+<text>%c[3,170,170,170]Выключи радио, надоело.</text>
+</string>
+<string id="mod_a16_kot_off_radio_dialog_txt_2">
+<text>Ладно, окей.</text>
+</string>
+<string id="mod_a16_kot_on_radio_dialog_txt_1">
+<text>%c[3,170,170,170]Включи радио, грустно тут как-то.</text>
+</string>
+<string id="mod_a16_kot_on_radio_dialog_txt_2">
+<text>Не грусти, Крамер. Включил.</text>
+</string>
+
+<string id="mod_lab_p27_post_boy_dialog_quest_1_0_txt">
+<text>Так, стоять. Ты кто такой?</text>
+</string>
+<string id="mod_lab_p27_post_boy_dialog_quest_1_1_txt">
+<text>Эм, ну... Крамер я. Профессор должен был предупредить вас.</text>
+</string>
+<string id="mod_lab_p27_post_boy_dialog_quest_1_2_txt">
+<text>А! Так это ты! Да, профессор говорил про тебя. Вот, это он просил передать лично тебе, держи. Это твоё личное удостоверение! Так... Фотка твоя, имя - Крамер, верно? ... Да, всё верно. Проходи-проходи, не стесняйся.</text>
+</string>
+<string id="mod_lab_p27_post_boy_dialog_quest_1_3_txt">
+<text>Окей.</text>
+</string>
+
+<string id="mod_p25_barmen_mess_start_dialog_1_0_text">
+<text>Хай, мужик. С чем пришёл?</text>
+</string>
+
+<string id="mod_a16_o85_time_to_ecologs_glava_quest_dialog_0_txt">
+<text>Я получил сообщение. Вы уже готовы отправляться?</text>
+</string>
+<string id="mod_a16_o85_time_to_ecologs_glava_quest_dialog_1_txt">
+<text>Да, Крамер. Не передумали? Эм... Вы, готовы?</text>
+</string>
+<string id="mod_a16_o85_time_to_ecologs_glava_quest_dialog_2_txt">
+<text>Да, в путь.</text>
+</string>
+<string id="mod_a16_o85_time_to_ecologs_glava_quest_dialog_3_txt">
+<text>Хорошо! Ой, погодите... Вы полетите вторым рейсом, все вместе мы не влезем, извините. Кхм-кхм, так вот: там, на большой земле - вы высадитесь недалеко от нашей базы вместе с Драпеем, это наш человек, к тому же, как вы: бывший военный. Может, вы уже и знакомы с ним... Он поможет вам и довезёт вас к нашему научному центру. Я буду с нетерпением ждать вас там!</text>
+</string>
+<string id="mod_a16_o85_time_to_ecologs_glava_quest_dialog_4_txt">
+<text>Ну хорошо. Где этот Драпей сейчас? ... %c[0,140,140,140][Ждать]</text>
+</string>
+<string id="mod_a16_o85_time_to_ecologs_glava_quest_dialog_22_txt">
+<text>Ещё минуту, профессор. Сейчас вернусь, подождите!</text>
+</string>
+
+<string id="mod_a16_o84_ecologs_glava_quest_dialog_0_txt">
+<text>Профессор, %c[255,248,153,26]можно отправиться в научный институт вместе с вами?</text>
+</string>
+<string id="mod_a16_o84_ecologs_glava_quest_dialog_1_txt">
+<text>Хм-м... Думаю что это вполне возможно, конечно, господин Крамер. Но, зачем вам в институт?</text>
+</string>
+<string id="mod_a16_o84_ecologs_glava_quest_dialog_2_txt">
+<text>Кхм... %c[255,248,153,26]*Шёпотом*:%c[default] Я не доверяю этим Наёмником, у меня есть подозрения, что никакого артефакта у них нету.</text>
+</string>
+<string id="mod_a16_o84_ecologs_glava_quest_dialog_3_txt">
+<text>Что? Почему вы так считаете? Ладно... Давайте не будем здесь говорить об этом. Хорошо, я выделю для вас место на борту - вы можете отправиться вместе с нами в научный институт. Как только все будут готовы, я сообщу вам на КПК. Хорошо?</text>
+</string>
+<string id="mod_a16_o84_ecologs_glava_quest_dialog_4_txt">
+<text>Хорошо. Отлично. Буду ждать вашего сообщения.</text>
+</string>
+
+<string id="mod_o84_contacts_lider_boy_quest_dialog_0_text">
+<text>Мне вот хотелось бы узнать, а не твои ли люди устроили мне засаду в лаборатории, в КБО?</text>
+</string>
+<string id="mod_o84_contacts_lider_boy_quest_dialog_1_text">
+<text>Что? О чём ты? На кой ты нам сдался вообще?</text>
+</string>
+<string id="mod_o84_contacts_lider_boy_quest_dialog_2_text">
+<text>А где вы раздобыли артефакт? Мм-м?</text>
+</string>
+<string id="mod_o84_contacts_lider_boy_quest_dialog_3_text">
+<text>Где-где... На ЧАЭС! Недалеко от реактора, представляешь? Всё, иди давай отсюда... Нету на тебя времени, сталкерок.</text>
+</string>
+
+<string id="mod_barmen_o83_contacts_boy_mess_start_dialog_1_0_text">
+<text>Чего тебе, сталкерёнок? Ха-ха.</text>
+</string>
+
+<string id="mod_a16_o82_ecologs_glava_quest_dialog_0_txt">
+<text>Соколов, %c[255,248,153,26]у вас есть для меня новости?</text>
+</string>
+<string id="mod_a16_o82_ecologs_glava_quest_dialog_1_txt">
+<text>Да. Хотел сказать вам, что артефакт уже нашли. Скоро: его принесут сюда.</text>
+</string>
+<string id="mod_a16_o82_ecologs_glava_quest_dialog_2_txt">
+<text>Что? Кто? Невозможно!</text>
+</string>
+<string id="mod_a16_o82_ecologs_glava_quest_dialog_3_txt">
+<text>Почему же? Одна из нанятых научным институтом группа Наёмников... Подробностей толком сам не знаю, но они идут со стороны ЧАЭС. Понятия не имею, как артефакт оказался там и где конкретно они его там "откопали"... Я не знал об этом, господин Крамер. Честное слово!</text>
+</string>
+<string id="mod_a16_o82_ecologs_glava_quest_dialog_4_txt">
+<text>Значит... Я больше не в деле? Чёрт, да как его могли там найти. Тут что-то не так.</text>
+</string>
+<string id="mod_a16_o82_ecologs_glava_quest_dialog_5_txt">
+<text>К сожалению, господин Крамер, да - вы больше не участвуете в этом задании. В качестве моральной компенсации, учитывая ваши старания и ваше расследование - я выплачу вам 15 тысяч рублей. Спасибо за то, что пытались...</text>
+</string>
+<string id="mod_a16_o82_ecologs_glava_quest_dialog_6_txt">
+<text>Мне кажется тут что-то не так. Я пожалуй дождусь этих Наёмников. Мне самому интересно, что это за "они" - и где они откопали чёртов артефакт.</text>
+</string>
+<string id="mod_a16_o82_ecologs_glava_quest_dialog_7_txt">
+<text>Ваше право, господин Крамер. Можем подождать их вместе, думая они прибудут с минуты на минуту.</text>
+</string>
+<string id="mod_a16_o82_ecologs_glava_quest_dialog_8_txt">
+<text>%c[0,140,140,140][Ждать]</text>
+</string>
+
+<string id="mod_a16_o82_hromoi_quest_dialog_dva_0_txt">
+<text>А... Ладно, друг, иди... Пусть сами всё расскажут, я думаю они как раз по этому поводу тебя и вызывают.</text>
+</string>
+<string id="mod_a16_o82_hromoi_quest_dialog_dva_1_txt">
+<text>Ну... Ладно.</text>
+</string>
+
+<string id="mod_a16_o82_hromoi_quest_dialog_0_txt">
+<text>О, а вот ты, хлопец.</text>
+</string>
+<string id="mod_a16_o82_hromoi_quest_dialog_1_txt">
+<text>Ты звал меня? Что-то по поводу артефакта?</text>
+</string>
+<string id="mod_a16_o82_hromoi_quest_dialog_2_txt">
+<text>Да, вообщем с артефактом твоим, слышал что учёные говорили...</text>
+</string>
+<string id="mod_a16_o82_hromoi_quest_dialog_3_txt">
+<text>%c[0,140,140,140][..слушать..]</text>
+</string>
+
+<string id="mod_a16_bar_lixoi_trader_rasskazal_dialog_0_txt">
+<text>%c[0,140,140,140]Слышь, Лихой. Ты всё тот же барыга, да? Скупаешь различные пда, флешки и всю прочую технику?</text>
+</string>
+<string id="mod_a16_bar_lixoi_trader_rasskazal_dialog_1_txt">
+<text>А ты всё так же хочешь получить от меня по зубам, да? Скупаю, что там у тебя? Есть что-то интересное? Тогда показывай. Если нет - не трепи мне лишний раз нервы.</text>
+</string>
+
+<string id="mod_a16_bar_lixoi_trade_pda_1_dialog_0_txt">
+<text>У меня есть кпк сталкера из Прачечной, вот - глянь.</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_1_dialog_1_txt">
+<text>Хрень на нём одна... Но, так и быть: дам за него 2 тысячи, идёт?</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_1_dialog_2_txt">
+<text>Да, давай.</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_pda_1_dialog_3_txt">
+<text>Нет, оставлю пока себя.</text>
+</string>
+
+<string id="mod_a16_bar_lixoi_trade_flesh_1_dialog_0_txt">
+<text>У меня есть интересная флешка с ноутбука, вот - глянь.</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_flesh_1_dialog_1_txt">
+<text>Хмм... Да, ты прав Крамер, есть тут кое-что полезное. Дам за неё 4 тысячи, по рукам?</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_flesh_1_dialog_2_txt">
+<text>Согласен. По рукам.</text>
+</string>
+<string id="mod_a16_bar_lixoi_trade_flesh_1_dialog_3_txt">
+<text>Нет, пока придержу у себя.</text>
+</string>
+
+<string id="mod_lx8_s6_hromoi_fyx_dialog_0_txt">
+<text>Крамер, да блин! Напугал т-ты... Ты как, друг?</text>
+</string>
+<string id="mod_lx8_s6_hromoi_fyx_dialog_1_txt">
+<text>Нормально всё, Хромой.</text>
+</string>
+<string id="mod_lx8_s6_hromoi_fyx_dialog_2_txt">
+<text>Точно? А то старика ты конечно перепугал не на шутку... Эх, молодой, не "убежаться" мне за вами! Что-то я силы и годы свои переоценил... Давай уже позже встретимся, в Прачечной... А то, что-то слишком много на меня сразу всего навалилось... Увидимся уже там по возможности, добро?</text>
+</string>
+<string id="mod_lx8_s6_hromoi_fyx_dialog_3_txt">
+<text>Добро, конечно. Без проблем.</text>
+</string>
+
+<string id="mod_a16_soldat_mexanik_dialog_0_txt">
+<text>%c[0,140,140,140]Чего ты грустный такой? Лица на тебе нет...</text>
+</string>
+<string id="mod_a16_soldat_mexanik_dialog_11_txt">
+<text>Ай... Забей, Крамер. Просто, день у меня вышел не из лучших... Кхм...</text>
+</string>
+<string id="mod_a16_soldat_mexanik_dialog_12_txt">
+<text>Умгх... Да штаб, мать его... Да ничего такого, забей.</text>
+</string>
+<string id="mod_a16_soldat_mexanik_dialog_13_txt">
+<text>Ох, да не совсем всё по плану проходит... Но ничего, я ещё разберусь.</text>
+</string>
+<string id="mod_a16_soldat_mexanik_dialog_14_txt">
+<text>Да так, не бери в голову, мои личные "тёрки". Всё путём!</text>
+</string>
+
+
+
+<string id="mod_lx8_s3_leliana_wtf_dialog_0_txt">
+<text>Мда... И... Как ты себя теперь чувствуешь?</text>
+</string>
+<string id="mod_lx8_s3_leliana_wtf_dialog_1_txt">
+<text>Это, было, больно... И это был не сон... Я, снова видел этого человека в странном костюме и шлеме.</text>
+</string>
+<string id="mod_lx8_s3_leliana_wtf_dialog_2_txt">
+<text>Что ты... Ты о ком? Ты... Ты видел Ремарка?!</text>
+</string>
+<string id="mod_lx8_s3_leliana_wtf_dialog_3_txt">
+<text>Да. Тот мужик, что был на вашей видеотрансляции, в школе. В странном костюме и со шлемом с кучей "глаз", чем-то напоминает ПНВ или, блин, бинокль! Угу.</text>
+</string>
+<string id="mod_lx8_s3_leliana_wtf_dialog_4_txt">
+<text>Это невозможно.... Ты... Ты правда говорил с ним? Но... Но как? Что ты видел? Что он тебе сказал?! Чёрт... Не молчи, Крамер, рассказывай! Что он сказал тебе?</text>
+</string>
+<string id="mod_lx8_s3_leliana_wtf_dialog_5_txt">
+<text>Да неважно, что он мне там плёл.. Теперь, я хочу знать, кто такой этот ваш "Ремарк". Я видел его и раньше, в Прачечной, но лишь мельком и он тут же исчез...</text>
+</string>
+<string id="mod_lx8_s3_leliana_wtf_dialog_6_txt">
+<text>Боже мой, что же он в тебе нашёл, Крамер!? Да чёрт... О ком же ты... Так, стоп. Он оставил на тебе метку: раз ты его видишь, это значит что он уже давно следит за тобой. Но зачем ему это... Не понимаю, что он хочет от тебя... Ремарк, это лидер нашего отряда, он руководил захватом Прачечной и возвратом артефакта в нашу лабораторию.</text>
+</string>
+<string id="mod_lx8_s3_leliana_wtf_dialog_7_txt">
+<text>Умгх... Что за бред? И каким же он образом следит за мной? Что он такое? Человек вообще? Полтергейст? А может, он просто моя галлюцинация? Ничего не понимаю.</text>
+</string>
+<string id="mod_lx8_s3_leliana_wtf_dialog_8_txt">
+<text>Не знаю я, Крамер. Он не посвящает меня в свои дела. Чёрт... Меня пугает тот факт, что он знает о тебе, и о каждом, твоём, шаге... Теперь я не знаю, кому можно доверять... Может, он и сейчас где-то здесь... Крамер, что с тобой?</text>
+</string>
+<string id="mod_lx8_s3_leliana_wtf_dialog_9_txt">
+<text>Как говорил мой старый знакомый - никому не доверяй. Правда, позже, он пытался меня убить. Кхм... Ладно, теперь хотелось бы узнать, что с артефактом? Он здесь?</text>
+</string>
+<string id="mod_lx8_s3_leliana_wtf_dialog_10_txt">
+<text>Всё это ещё больше странно чем я думала... Что же тут происходит...  %c[255,248,153,26]*О чём-то внимательно думает, совершенно не слушая Крамера*%c[default] Хм... Что же происходит... Как это... всё... связано.</text>
+</string>
+<string id="mod_lx8_s3_leliana_wtf_dialog_11_txt">
+<text>Эй, ау, Лелиана! Что с артефактом?</text>
+</string>
+<string id="mod_lx8_s3_leliana_wtf_dialog_12_txt">
+<text>А, да... Прости, задумалась. Артефакт у Ремарка, он должен был скоро вернутся сюда и доложить нам: что делать дальше. Но видимо он уже был здесь... И, общался с тобой... Прошли сутки - как ты пришёл в себя... Ремарк оставил нас... Я не знаю что теперь делать.</text>
+</string>
+<string id="mod_lx8_s3_leliana_wtf_dialog_13_txt">
+<text>В таком случае, я обыщу лабораторию? Вдруг найду здесь очередные следы, этого вашего: Ремарка. Хорошо?</text>
+</string>
+<string id="mod_lx8_s3_leliana_wtf_dialog_14_txt">
+<text>Угу... Ищи всё что хочешь... Мне нужно подумать, и, побыть одной... Я, ничего не понимаю.... %c[255,248,153,26]*Снова о чём-то думает, игнорирует окружение и вас*%c[default] Что тут происходит...</text>
+</string>
+<string id="mod_lx8_s3_leliana_wtf_dialog_15_txt">
+<text>%c[0,140,140,140][Уйти]</text>
+</string>
+
+<string id="mod_r22_hromoi_vibor_lx8_dialog_0_txt">
+<text>Крамер, друг! Давай я прикрою тебя в лаборатории, пошли туда вместе, ну?</text>
+</string>
+<string id="mod_r22_hromoi_vibor_lx8_dialog_1_txt">
+<text>Хорошо, старина. Пошли со мной, вдвоём надёжнее. %c[255,248,153,26]•</text>
+</string>
+<string id="mod_r22_hromoi_vibor_lx8_dialog_2_txt">
+<text>Нет, дедуль, прости. Это опасно для тебя. Увидимся позже! %c[255,1,255,255]•</text>
+</string>
+
+<string id="mod_lx8_s2_ecolog_quest_1_dialog_0_txt">
+<text>Уходите, из-за вас мы все умрём! Лелиана, зря вас сюда впустила! Уходите!</text>
+</string>
+<string id="mod_lx8_s2_ecolog_quest_1_dialog_1_txt">
+<text>Погоди, профессор. Я никуда не уйду без артефакта. Тем более, пока вы мне всё не объясните.</text>
+</string>
+<string id="mod_lx8_s2_ecolog_quest_1_dialog_2_txt">
+<text>Уходите! Ремарк скоро вернётся! И нам всем придёт конец! Я ничего вам не скажу!</text>
+</string>
+<string id="mod_lx8_s2_ecolog_quest_1_dialog_3_txt">
+<text>%c[255,1,255,255]Хватит орать! %c[default]Моя... Голова... Болеть... начинает.</text>
+</string>
+
+<string id="mod_lx8_s1_leliana_quest_1_dialog_0_txt">
+<text>Назови мне хоть одну причину в тебя не стрелять!</text>
+</string>
+<string id="mod_lx8_s1_leliana_quest_1_dialog_1_txt">
+<text>Спокойно! Я с миром... Дай объяснить!</text>
+</string>
+<string id="mod_lx8_s1_leliana_quest_1_dialog_1111_txt">
+<text>Спокойно! Я и мой друг пришли с миром... Дай нам объяснить!</text>
+</string>
+<string id="mod_lx8_s1_leliana_quest_1_dialog_2222_txt">
+<text>%c[0,140,140,140][Промолчать]</text>
+</string>
+<string id="mod_lx8_s1_leliana_quest_1_dialog_3333_txt">
+<text>Что ты молчишь!? Я считаю до трёх... Раз... Дв-Два...</text>
+</string>
+<string id="mod_lx8_s1_leliana_quest_1_dialog_2_txt">
+<text>Объяснить?! Ты обещал не искать нас и чёртов артефакт! Я же знала, что ты всё-равно придёшь... Чёрт, зачем я только оставила тебя в живых...</text>
+</string>
+<string id="mod_lx8_s1_leliana_quest_1_dialog_3_txt">
+<text>Эй, не нужно крови. Сама понимаешь, как я мог обещать тебе такое? Мы даже не знакомы. А может быть ты - одна из моих конкурентов! А?</text>
+</string>
+<string id="mod_lx8_s1_leliana_quest_1_dialog_4_txt">
+<text>Конкурентов? Что? Я тебе покажу мать твою конкурентов - на том свете! Понял?!</text>
+</string>
+<string id="mod_lx8_s1_leliana_quest_1_dialog_5_txt">
+<text>Ну не кипятись, давай ещё раз поговорим, окей? Спокойно!</text>
+</string>
+<string id="mod_lx8_s1_leliana_quest_1_dialog_6_txt">
+<text>Ты надо мной издеваешься? Боже мой, ты идиот - раз не понял, с кем связался. Так... У тебя минута - чтобы отдать ключ-карту, развернутся и подняться на этом грёбанном лифте туда откуда он и приехал, всё ясно?</text>
+</string>
+<string id="mod_lx8_s1_leliana_quest_1_dialog_7_txt">
+<text>Да объясни ты уже наконец, почему вы так бережёте свой артефакт? Ты не убила меня в первый раз, не убьёшь и сейчас. Знаешь почему? Потому что тебе духу не хватит. Мне нужен этот артефакт Лелиана, и поворачивать назад - для меня уже не вариант.</text>
+</string>
+<string id="mod_lx8_s1_leliana_quest_1_dialog_8_txt">
+<text>Ты... Придурак. Тобой просто правят деньги, вот и всё.</text>
+</string>
+<string id="mod_lx8_s1_leliana_quest_1_dialog_9_txt">
+<text>Ох уж, поверь, после всего случившегося, мной правит лишь любопытство. За этим вашим артефактом, чуть ли уже не весь мир - готов развязать войну. Это лишь вопрос времени. А я, тут, стою в центре всей этой чертовщины. Как думаешь, есть у меня шанс, узнать: что это за артефакт то такой?</text>
+</string>
+<string id="mod_lx8_s1_leliana_quest_1_dialog_10_txt">
+<text>Да с чего ты взял, что он кому-то нужен? Чёрт, блин... Крамер! Уверен, что хочешь ввязываться в это всё?</text>
+</string>
+<string id="mod_lx8_s1_leliana_quest_1_dialog_11_txt">
+<text>Более чем. Прошу, расскажи мне всё.</text>
+</string>
+
+<string id="mod_r22_hromoi_quest_1_dialog_0_txt">
+<text>Ох, сынок! Слушаю тебя!</text>
+</string>
+<string id="mod_r22_hromoi_quest_1_dialog_1_txt">
+<text>Да, привет дедуля. Ты извини, что я без гостинцев, да и снова, по работе!</text>
+</string>
+<string id="mod_r22_hromoi_quest_1_dialog_2_txt">
+<text>Эх, хе-хе! Всё нормально, Крамер. Выкладывай, что там у тебя, ты по пустякам не тревожишь, уж точно. А это значит, у тебя что-то серьёзное, раз позвал меня сюда.</text>
+</string>
+<string id="mod_r22_hromoi_quest_1_dialog_3_txt">
+<text>Хромой, ты сейчас единственный, кому я могу доверять. Слышал уже об артефакте, за которым я сюда учёных привёл? Так вот: за артефактом то этим, уже все охотятся, а я - лишь мешаю.</text>
+</string>
+<string id="mod_r22_hromoi_quest_1_dialog_4_txt">
+<text>Тут ты прав... У всех сейчас разум затуманен этим артефактом. Да и гонка вооружений уже началась, и тебе стоит быть внимательным и осторожным, причём, больше, чем обычно... Угу? Кхм... Не томи, Крамер, рассказывай уже, что стряслось. К чему такая формальность?</text>
+</string>
+<string id="mod_r22_hromoi_quest_1_dialog_5_txt">
+<text>Ты прав... Слушай, помнишь, ты говорил: что работал здесь раньше? У тебя осталась ключ-карта? Мне нужно попасть в лабораторию и мне дали информацию, что она находится под этим зданием.</text>
+</string>
+<string id="mod_r22_hromoi_quest_1_dialog_6_txt">
+<text>Хм-м... Да, помню, говорил... Ключ-карта то у меня была. Но подожди, за время работы здесь: нас так никто и не оповестил, для чего она была нужна. Я ей так и не воспользовался ни разу! Говоришь, что под зданием что-то есть? Удивляешь.... Хм... Оставил я эту ключ-карту, когда-то: в своём схроне, в "старом КБО". Что ж.... Давай сейчас сходим туда вместе, заберём. Раз уж она тебе нужна. Забирай! Удивил ты меня, конечно, удивил... Сколько же ещё было скрыто от нас, во время работы здесь. Ох...</text>
+</string>
+<string id="mod_r22_hromoi_quest_1_dialog_7_txt">
+<text>Супер. Спасибо! Что я тебе за неё должен?</text>
+</string>
+<string id="mod_r22_hromoi_quest_1_dialog_8_txt">
+<text>Эх... Да ничего ты мне за неё не должен, Крамер. Только не влезь в очередную передрягу, хорошо? Старику будет грустно, если он узнает что его надёжный друг и товарищ пропадёт. Пойдём?</text>
+</string>
+<string id="mod_r22_hromoi_quest_1_dialog_9_txt">
+<text>Конечно, Хромой, без проблем. Но я всё-таки останусь твоим должником, как и раньше... Вот найду я артефакт, сразу состыкуемся, порешаем! Обещаю.</text>
+</string>
+
+<string id="mod_h23_morrigan_quest_1_dialog_0_txt">
+<text>Хух... Отлично! Ты справился!</text>
+</string>
+<string id="mod_h23_morrigan_quest_1_dialog_1_txt">
+<text>И так... кейс у меня. Мне нужна инфомация.</text>
+</string>
+<string id="mod_h23_morrigan_quest_1_dialog_2_txt">
+<text>Да, ты прав, пора платить по счетам... Когда ты ходил проверять точку трансляции, в школу: я покапалась в том ноутбуке ещё больше... И вот что узнала: отряд монолитовцев, напавших на Прачечную, базируется в КБО "Юбилейном". Это тут, недалеко. Где-то под зданием, по моим данным, у них есть лаборатория. Мне кажется, что спуск в неё они осуществляют через лифт. В ноутбуке: так же упоминалась какая-то ключ-карта... Где взять эту ключ-карту - я не знаю, прости... Но, если у тебя есть кто-нибудь знакомый из тех, кто раньше тут жил и работал - %c[110,0,128,64]стоит спросить у них. %c[default]Когда ты вёл нас в Припять, ты говорил о каком-то своём старом знакомом... Хромой, или как его там... Ты говорил, что он здесь работал и жил ещё до первой аварии, я запомнила, да-да. Короче, Крамер, думаю, что у работников - однозначно пооставались эти ключ-карты. На твоём месте, я бы спросила у твоих знакомых о ней, заодно, осмотри здание.</text>
+</string>
+<string id="mod_h23_morrigan_quest_1_dialog_3_txt">
+<text>Я тебя понял, Морриган. Спасибо за инфомацию. Вот кейс.</text>
+</string>
+<string id="mod_h23_morrigan_quest_1_dialog_4_txt">
+<text>Обращайся! Если узнаю что-нибудь ещё, дам тебе знать. И тебе спасибо! Кхм... Мы сейчас идём в лагерь, ты с нами? Или... Или, у тебя сейчас другие дела?</text>
+</string>
+<string id="mod_h23_morrigan_quest_1_dialog_5_txt">
+<text>Я с вами. Мне нужно заглянуть в лагерь. %c[255,248,153,26]•</text>
+</string>
+<string id="mod_h23_morrigan_quest_1_dialog_55_txt">
+<text>Нет, я остаюсь здесь. У меня тут, свои тёрки. %c[255,1,255,255]•</text>
+</string>
+
+<string id="mod_b33_soldv_dialog_1_0_txt">
+<text>А круто мы их всех, да? Прямым в голову - раз, два, три! Хе-хе...</text>
+</string>
+<string id="mod_b33_soldv_dialog_1_1_txt">
+<text>Ну да! Ты молодец, Валентир. %c[255,248,153,26]•</text>
+</string>
+<string id="mod_b33_soldv_dialog_1_2_txt">
+<text>Ты плохо меня прикрывал. Я справился и без твоей помощи. %c[255,255,130,130]•</text>
+</string>
+<string id="mod_b33_soldv_dialog_1_3_txt">
+<text>Чего-чего? Ну, э... Не дружище, это не смешно..</text>
+</string>
+<string id="mod_b33_soldv_dialog_1_4_txt">
+<text>Ну ладно.</text>
+</string>
+
+<string id="mod_b23_girl_1_dialog_2_0_txt">
+<text>Обстановка тут, конечно, не из лучших, для разговоров... Тебе так не кажется?</text>
+</string>
+<string id="mod_b23_girl_1_dialog_2_1_txt">
+<text>Я внимательно слушаю. Тебе что-то нужно от меня, а взамен ты поделишься со мной нужной информацией. Всё верно?</text>
+</string>
+<string id="mod_b23_girl_1_dialog_2_2_txt">
+<text>Какой ты резкий, Крамер! Да... Всё именно так. Ладно-ладно, не буду тянуть, скажу прямо: нужна твоя "боевая поддержка". Я подключила свои связи и вообщем, мы с Валентиром, хотим перехватить один важный кейс с документами... В Припяти, по моим данным - в кинотеатре "Прометей": должна пройти сделка наёмников. Они собираются передать важные для меня документы, очень влиятельным и очень плохим людям. Кхм... Соответственно, этого допустить ну никак нельзя! Мы должны перехватить кейс и устроить им "сильную взбучку"! Я всё продумала и рассчитала. Мы будем брать их "сверху". Не силой, а мозгами... А вот ты, вместе с моими бойцами - должен помочь мне выкрасть их. Можно конечно и перебить их всех, мы поддержим тебя огнём со снайперских позиций, с крыши. Ха-ха, надеюсь, я не запутала тебя, своими объяснениями?</text>
+</string>
+<string id="mod_b23_girl_1_dialog_2_3_txt">
+<text>То есть, я что, в ролях: пушечного мяса?</text>
+</string>
+<string id="mod_b23_girl_1_dialog_2_4_txt">
+<text>Ну да! Ой! А-ха-ха, да нет же! Блин, не волнуйся, Крамер. Я всё продумала до мелочей. Мы нападём незаметно и застанем их врасплох.</text>
+</string>
+<string id="mod_b23_girl_1_dialog_2_5_txt">
+<text>Ну и... Какую же информацию о "моём артефакте", я за это получу?</text>
+</string>
+<string id="mod_b23_girl_1_dialog_2_6_txt">
+<text>Возможно, ты получишь самую прямую наводку о том, где он находится, а так же на людей, которые его и украли. Хороший обмен? Крамер, не сомневайся, я говорю чистую правду.</text>
+</string>
+<string id="mod_b23_girl_1_dialog_2_7_txt">
+<text>И откуда же ты обладаешь такой информацией?</text>
+</string>
+<string id="mod_b23_girl_1_dialog_2_8_txt">
+<text>Ха-ха! А вот это, очередной секрет, Крамер. С тебя помощь - с меня отдача. Договорились?</text>
+</string>
+<string id="mod_b23_girl_1_dialog_2_9_txt">
+<text>Надеюсь танцы стоят свеч. Какой план действий, я слушаю.</text>
+</string>
+<string id="mod_b23_girl_1_dialog_2_10_txt">
+<text>Сейчас мы двинем к дому, вокруг которого растёт большая "лиана". Там, на крыше этого здания - будет идеальная позиция для наших задач. Объясню тебе и остальным, всё более детально уже на месте. Так, эм, ты согласен?</text>
+</string>
+<string id="mod_b23_girl_1_dialog_2_11_txt">
+<text>Хм... Ну, окей. Чего тогда медлить, двинулись.</text>
+</string>
+
+<string id="mod_b23_girl_1_dialog_1_0_txt">
+<text>О, а вот и наш боец-красавчик. Тебя то мы только и ждём, Крамер!</text>
+</string>
+<string id="mod_b23_girl_1_dialog_1_1_txt">
+<text>Неужели?</text>
+</string>
+<string id="mod_b23_girl_1_dialog_1_2_txt">
+<text>Ты же говорил с профессором? Да? И... Что решил?</text>
+</string>
+<string id="mod_b23_girl_1_dialog_1_3_txt">
+<text>У меня появились конкуренты, хотя думаю ты это и так прекрасно знаешь. Ведь, ты тоже, в этом списке.</text>
+</string>
+<string id="mod_b23_girl_1_dialog_1_4_txt">
+<text>Да что я такого сделала тебе? Откуда такие подозрения, м? Ха-ха! Я уже говорила, мне твой артефакт не нужен, как и деньги за него, поверь ты мне. Но я могу тебе помочь, понимаешь?</text>
+</string>
+<string id="mod_b23_girl_1_dialog_1_5_txt">
+<text>Снова ты как мать Тереза? Морриган, ты так и не объяснила, на чём же держится твоя мотивация: помогать.</text>
+</string>
+<string id="mod_b23_girl_1_dialog_1_6_txt">
+<text>А это, красавчик, уже не твоё дело! Ха-ха. Уж прости.</text>
+</string>
+<string id="mod_b23_girl_1_dialog_1_7_txt">
+<text>И как мне тогда тебе доверять?</text>
+</string>
+<string id="mod_b23_girl_1_dialog_1_8_txt">
+<text>Разве я просила мне доверять? Я предлагаю тебе помощь, в обмен на помощь. Понятно? Не поверишь - свою выгоду я возьму сполна. И да, она не связана с твоим артефактом, не волнуйся. Услуга за услугу, так у вас говорят?</text>
+</string>
+<string id="mod_b23_girl_1_dialog_1_9_txt">
+<text>Раз на то пошло, я хотел бы знать наверняка: твоя помощь имеет "вес"?</text>
+</string>
+<string id="mod_b23_girl_1_dialog_1_10_txt">
+<text>Ну конечно имеет. Мы же деловые все такие, верно? Хватит быть таким занудой, Крамер! Соглашайся на сотрудничество!</text>
+</string>
+<string id="mod_b23_girl_1_dialog_1_11_txt">
+<text>Хм... Тогда, может, сменим обстановку? Поговорим, но не в лагере. Не бойся, приставать не буду, если сама не попросишь конечно.</text>
+</string>
+<string id="mod_b23_girl_1_dialog_1_12_txt">
+<text>Ха-ха! А ты бываешь и смешным, это радует. Хорошо, только с нами пойдёт он. %c[255,248,153,26]*Указывает на военного напротив*%c[default] У нас с ним общие цели. Мы с ним, заодно, скажем так. Да, Валентир? ... </text>
+</string>
+<string id="mod_b23_girl_1_dialog_1_13_txt">
+<text>Без проблем. Можете хоть весь научный институт с собой взять. Но, идти будете впереди меня, я обозначну куда и когда. Окей? ... Не обижайтесь, доверия к вам пока нет.</text>
+</string>
+<string id="mod_b23_girl_1_dialog_1_14_txt">
+<text>Ты, действительно, такой, забавный... А у нас к тебе тогда, какое может быть доверие? А? Может быть, ты собираешься нас убить, м? И вообще, будь вежлевее, я уже один раз тебе помогла, с координатами. Кстати, узнал что-нибудь в школе? Куда так долго пропадал? Что там было?</text>
+</string>
+<string id="mod_b23_girl_1_dialog_1_15_txt">
+<text>Ничего полезного я там не нашёл. Так, ладно. Кхм.. Азарт - только усиливается и я очень надеюсь что твоя помощь будет мне весьма полезна. Вот координаты, это место - где можно тихо, спокойно, и без лишних глаз всё обсудить, идёт?</text>
+</string>
+<string id="mod_b23_girl_1_dialog_1_16_txt">
+<text>Хм, и по-твоему это нейтральная позиция? ... А у меня спросить не хочешь? Ладно, хорошо, доверимся тебе, Крамер. Кхм, сейчас туда двинемся? Или ты нас догонишь?</text>
+</string>
+<string id="mod_b23_girl_1_dialog_1_17_txt">
+<text>Я догоню. Встретимся уже там. %c[255,1,255,255]•</text>
+</string>
+<string id="mod_b23_girl_1_dialog_1_177_txt">
+<text>Идём туда вместе, прямо сейчас. %c[255,248,153,26]•</text>
+</string>
+
+
+
+<string id="mod_a42_to_a16_ecolog_1_dialog_1_0_txt">
+<text>Профессор. %c[255,248,153,26]У меня есть к вам разговор.</text>
+</string>
+<string id="mod_a42_to_a16_ecolog_1_dialog_1_1_txt">
+<text>Да-да? Я внимательно слушаю вас.</text>
+</string>
+<string id="mod_a42_to_a16_ecolog_1_dialog_1_2_txt">
+<text>Прояснились некоторые моменты, касательно артефакта. Я нашёл причастных к его краже. У меня даже состоялся с одним из них диалог! Правда, это скорее была засада... "Напали, побили, деньги отобрали" Мда-а.</text>
+</string>
+<string id="mod_a42_to_a16_ecolog_1_dialog_1_3_txt">
+<text>О господи, Крамер! Что-что? Вы разговаривали с ними? Как это вышло? Что вы узнали? Они, оставили вас в живых? Как это, возможно?</text>
+</string>
+<string id="mod_a42_to_a16_ecolog_1_dialog_1_4_txt">
+<text>Ох, как много вопросов, профессор. Давайте опустим подробности того, как я с ними познакомился. Важно другое: они очень "любезно" и без преувеличений, доходчиво - попросили меня... Кхм, нет, точнее, всех нас - не преследовать их. Ну и собственно, их артефакт.</text>
+</string>
+<string id="mod_a42_to_a16_ecolog_1_dialog_1_5_txt">
+<text>Ничего не понимаю! Но... Но, господин, Крамер! Нам очень нужен этот артефакт, поймите! Мы не можем уйти без него.</text>
+</string>
+<string id="mod_a42_to_a16_ecolog_1_dialog_1_6_txt">
+<text>Что в этом артефакте такого? Откуда вы знаете, что он действительно такой полезный для вас? В видеоматериалах, приложенных сталкерами - не было ничего сверхестественного: своего рода артефакт "Батарейка". Что, разве нет? ...Ха, да просто соберите таких пару сотен штук, и будет вам счастье. Я не прав?</text>
+</string>
+<string id="mod_a42_to_a16_ecolog_1_dialog_1_7_txt">
+<text>Простите... Я не могу рассказать вам все подробности и наши причины на его "эксплуатацию", пока что... За нами стоят ещё более серьёзные люди, на "большой земле". Поймите нас, Крамер. Нам, очень нужен этот артефакт, неужели... Сумма, за его поиск, для вас недостаточна? Прошу вас, просто принесите его мне - и мы, будем с вами в расчёте. И ещё кое-что, господин Крамер... Не хотелось бы тревожить вас ещё больше, но к моему и к вашему несчастью, у вас: появились конкуренты. Институт нанял множество отрядов наёмников... Они тоже скоро прибудут сюда. Я не знал об этом, правда!</text>
+</string>
+<string id="mod_a42_to_a16_ecolog_1_dialog_1_8_txt">
+<text>Этого стоило ожидать. Ведь сумма за него вполне внушительная.</text>
+</string>
+<string id="mod_a42_to_a16_ecolog_1_dialog_1_9_txt">
+<text>Господин Крамер, это не моя прихоть. Я отдал это задание только лично вам. Потому что я уверен, что именно вы и принесёте его мне. Я искренне в это вер...</text>
+</string>
+<string id="mod_a42_to_a16_ecolog_1_dialog_1_10_txt">
+<text>Ясно. Профессор Соколов, мне стоит поторопиться. А теперь и приглядывать за тылом, потому что наёмники с удовольствием пустят меня в расход... Я вынужден поднять ставки. Полмиллиона будет мало.</text>
+</string>
+<string id="mod_a42_to_a16_ecolog_1_dialog_1_11_txt">
+<text>Я... я знал, что вы так скажете и я готов, принять ваши ставки, Крамер. Только принесите мне этот артефакт, лично! Кстати, госпожа Морриган приходила, просилась помочь вам, я... я не мог ей ничего обещать. Поэтому, поговорите с ней лично об этом. Она уверяла, что у неё есть план и какая-то важная информация для вас. %c[255,248,153,26]Вот. Это за ваши старания, за проделанный на данном этапе труд...%c[default] Смотрю, вас сильно потрепало... Не будем уточнять, что с вами произошло.</text>
+</string>
+<string id="mod_a42_to_a16_ecolog_1_dialog_1_12_txt">
+<text>Спасибо, понял. Буду иметь в виду.</text>
+</string>
+
+<string id="mod_a42_girl_leliana_quest_dialog_1_0_txt">
+<text>Не вздумай что-нибудь "выкинуть", понял?! Я сразу буду стрелять!</text>
+</string>
+<string id="mod_a42_girl_leliana_quest_dialog_1_1_txt">
+<text>Я ещё жив? ... Кхм... Где я? А ты кто? Умгх... Стоп, я же тебя видел! Ты та девчонка с видеотрансляции! Кх-кхм...</text>
+</string>
+<string id="mod_a42_girl_leliana_quest_dialog_1_2_txt">
+<text>Да уж... Память у тебя сталкер, не пострадала. Повезло тебе, что не убила ещё, понял? Если бы ты нарвался на моих "соратников" а не на меня - был бы уже трупом. Раз ты знаешь о записи с ноутбука, какого чёрта пришёл сюда? М-м? Вас же чётко предупредили, не преследовать нас.</text>
+</string>
+
+<string id="mod_a42_girl_leliana_quest_dialog_1_3_txt">
+<text>Кхм... Для "Монолита" ты очень даже адекватная персона. Что, ещё не прочистили мозги, как всем остальным? Или, у "приближённых" есть и своевольные бойцы?</text>
+</string>
+<string id="mod_a42_girl_leliana_quest_dialog_1_333_txt">
+<text>Эх. Что-то мне с первого раза не дошло, что не стоит идти за вами. Ты права. Я просто очень любопытный.</text>
+</string>
+
+<string id="mod_a42_girl_leliana_quest_dialog_1_4_txt">
+<text>Чего?! Здесь я вопросы задаю! Да блин... Ты видимо идиот... Слушай, это вы: видели нас "кончеными фанатиками", но далеко не все наши бойцы: зомбированы, угу? ... Наша "вербовка", делается исключительно для нашей и... вашей же... безопасности. Так, стоп! Чего это я перед тобой отчитываюсь? Стой смирно и отвечай на мои вопросы! Кто такой?</text>
+</string>
+<string id="mod_a42_girl_leliana_quest_dialog_1_444_txt">
+<text>Ха! Да, глупенький. Но молодец, что признал свою ошибку. Так, не отвлекай меня! Кто ты, рассказывай давай!</text>
+</string>
+
+<string id="mod_a42_girl_leliana_quest_dialog_1_5_txt">
+<text>Спокойно-спокойно. Я сталкер - проводник. Думаю, что достаточно популярная личность в Зоне. Крамером меня кличут. Слыхала о таком?</text>
+</string>
+<string id="mod_a42_girl_leliana_quest_dialog_1_555_txt">
+<text>Сталкер - проводник я. Крамером меня кличут. Слышала может быть обо мне?</text>
+</string>
+
+<string id="mod_a42_girl_leliana_quest_dialog_1_6_txt">
+<text>Нет. Ни слова о тебе не слышала. Не обманываешь меня?</text>
+</string>
+<string id="mod_a42_girl_leliana_quest_dialog_1_7_txt">
+<text>Нет, нету мне смысла обманывать, учитывая тот факт что ты могла обо мне слышать. Кхм... Я возможно хотел бы сразу уточнить: я уже не жилец?</text>
+</string>
+<string id="mod_a42_girl_leliana_quest_dialog_1_8_txt">
+<text>Не жилец? Эм... Да нет, почему же? Если конечно ты не врёшь... Да и вообще, всё будет зависить только от тебя. Ферштейн?</text>
+</string>
+<string id="mod_a42_girl_leliana_quest_dialog_1_9_txt">
+<text>Хм... Ну у меня три варианта расклада событий. Я ведь, кажется, в плену... Значит, первый вариант - меня не убили, потому что будут пытать. Второй, мне "профильтруют" мозги и сделают одним из ваших бойцов? И третий, пожалуй, самый позитивный и оптимистичный вариант на сегодняшний день: вы, просто меня отпустите?</text>
+</string>
+<string id="mod_a42_girl_leliana_quest_dialog_1_10_txt">
+<text>Ха! Забавный ты... Даже, жалко тебя, что ли. Да, я отпущу тебя. Дам тебе последний шанс, представляешь? Неожиданно, правда?</text>
+</string>
+<string id="mod_a42_girl_leliana_quest_dialog_1_11_txt">
+<text>Серьёзно? Кхм-м... Я так понимаю, чтобы я этот шанс зря не потерял, вы любезно попросите меня больше не приближаться к вам и.. к вашему, артефакту?</text>
+</string>
+<string id="mod_a42_girl_leliana_quest_dialog_1_12_txt">
+<text>Ну, это вполне логично. Ты молодец. Люблю когда не приходится объяснять очевидное. Как там тебя, а, Крамер? Слушай, поверь мне, не стоит этот артефакт всех жертв, что уже произошли. Если ты даёшь мне слово, которое, блин, можешь, конечно же не сдержать - то я выведу тебя с повязкой на голове к вашему лагерю в Прачечной. Только, больше нас не ищи, и лучше, покинь Зону, пока ещё можешь. Если ты согласен - ты свободен. Я тебе всё понятно объяснила?</text>
+</string>
+<string id="mod_a42_girl_leliana_quest_dialog_1_13_txt">
+<text>Выбор очевиден. Мне жизнь - дороже денег. Хорошо, я согласен на твои условия и даю тебе слово: что не буду вас преследовать.</text>
+</string>
+<string id="mod_a42_girl_leliana_quest_dialog_1_14_txt">
+<text>Я поверю тебе. И надеюсь, что это всё не зря! Хорошо. Медленно протяни руки вперёд.</text>
+</string>
+
+<string id="mod_a42_girl_leliana_quest_dialog_1_15_txt">
+<text>Без проблем, вот. %c[255,248,153,26]•</text>
+</string>
+<string id="mod_a42_girl_leliana_quest_dialog_1_155_txt">
+<text>А если я буду против ваших правил? %c[0,204,0,51]•</text>
+</string>
+<string id="mod_a42_girl_leliana_quest_dialog_1_166_txt">
+<text>Не беси, Крамер. Против? Тьфу, тогда я пущу тебе пулю в лоб. Как тебе такая перспектива? %c[255,248,153,26]*Взгляд и речь этой девушки стал очень опасным*</text>
+</string>
+<string id="mod_a42_girl_leliana_quest_dialog_1_177_txt">
+<text>Понял-понял. Вижу, ты серьёзная женщина... Вот, всё, спокойно - делаю, всё как ты говоришь. Вот мои руки, смотри.</text>
+</string>
+
+<string id="mod_a16_stalker_psy_armedd_dialog_txt_0">
+<text>Ремарк?! Это ты? Помоги мне, прошу...</text>
+</string>
+<string id="mod_a16_stalker_psy_armedd_dialog_txt_1">
+<text>О чём ты?</text>
+</string>
+<string id="mod_a16_stalker_psy_armedd_dialog_txt_2">
+<text>Помоги мне! ... Помоги! ... Они внутри... Все они внутри меня! ... Голова раскалывается! ... Я так больше не могу, их слишком много! ... Они говорят со мной!</text>
+</string>
+<string id="mod_a16_stalker_psy_armedd_dialog_txt_3">
+<text>%c[0,140,140,140][Уйти]</text>
+</string>
+
+<string id="mod_a16_sokolov_off_radio_dialog_txt_1">
+<text>%c[3,170,170,170]Выключите радио, мешает.</text>
+</string>
+<string id="mod_a16_sokolov_off_radio_dialog_txt_2">
+<text>Как скажете, Крамер.</text>
+</string>
+<string id="mod_a16_sokolov_on_radio_dialog_txt_1">
+<text>%c[3,170,170,170]Включите радио, если не трудно.</text>
+</string>
+<string id="mod_a16_sokolov_on_radio_dialog_txt_2">
+<text>Без проблем, господин Крамер.</text>
+</string>
+
+<string id="mod_a16_girl_morrigan_quest_dialog_2_0_txt">
+<text>Ну и дела!</text>
+</string>
+<string id="mod_a16_girl_morrigan_quest_dialog_2_1_txt">
+<text>Морриган, это видео загружено в ноутбук, как запись видеотрансляции, верно? А можно ли как-нибудь узнать, откуда она велась?</text>
+</string>
+<string id="mod_a16_girl_morrigan_quest_dialog_2_2_txt">
+<text>Верно. Да, я могла бы узнать, но, что-то блокирует сигнал. Может, если бы я взобралась куда-то повыше...</text>
+</string>
+<string id="mod_a16_girl_morrigan_quest_dialog_2_3_txt">
+<text>Я понял. Дай мне этот прибор. Я знаю куда его установить.</text>
+</string>
+<string id="mod_a16_girl_morrigan_quest_dialog_2_4_txt">
+<text>Хорошо. Вот, держи. Как только установишь, я начну искать сигнал. Будь на связи!</text>
+</string>
+<string id="mod_a16_girl_morrigan_quest_dialog_2_5_txt">
+<text>Отлично. Не подведи, тогда с меня должок.</text>
+</string>
+
+<string id="mod_a16_girl_morrigan_dialog_1_0_txt">
+<text>Крамер, слушай, раз уж мы в одной команде то...</text>
+</string>
+<string id="mod_a16_girl_morrigan_dialog_1_1_txt">
+<text>Слушаю. %c[255,248,153,26]•</text>
+</string>
+<string id="mod_a16_girl_morrigan_dialog_1_111_txt">
+<text>Чего? Морриган, мы не в команде, и я всегда работаю один. Моя задача была привести вас в Прачечную, вот и всё. Дальше - вы сами по себе. %c[255,255,130,130]•</text>
+</string>
+<string id="mod_a16_girl_morrigan_dialog_1_222_txt">
+<text>Да-да, естественно. Но зачем же так грубо, Крамер? Я просто хочу помочь! Дай мне хоть сказать, эм...</text>
+</string>
+<string id="mod_a16_girl_morrigan_dialog_1_2_txt">
+<text>Ха! Признал всё-таки что мы в команде, да? Супер. Ой, прости, отвлеклась... Вообщем, слушай, кхм...</text>
+</string>
+<string id="mod_a16_girl_morrigan_dialog_1_3_txt">
+<text>Очень внимательно слушаю.</text>
+</string>
+<string id="mod_a16_girl_morrigan_dialog_1_4_txt">
+<text>Крамер, а что если в самой Прачечной ещё есть какие-нибудь зацепки? Как считаешь? ... Ведь, нападение произошло именно здесь. Вот, например, эти двери - слева от меня, закрыты на замок. Может, кто-то пытался там что-то спрятать от нас? Я могу их "вскрыть", заодно и узнаем, что за ними находится. Ты со мной?</text>
+</string>
+<string id="mod_a16_girl_morrigan_dialog_1_5_txt">
+<text>А тебе какая с этого выгода?</text>
+</string>
+<string id="mod_a16_girl_morrigan_dialog_1_6_txt">
+<text>Выгода? Хм.. Это ты ищешь во всём и во всех выгоду. Мне - просто интересно.</text>
+</string>
+<string id="mod_a16_girl_morrigan_dialog_1_7_txt">
+<text>Как скажешь. %c[0,153,255,255]•</text>
+</string>
+<string id="mod_a16_girl_morrigan_dialog_1_777_txt">
+<text>Угу, прости, но что-то я тебе не доверяю. Не знаешь, почему? %c[255,248,153,26]•</text>
+</string>
+<string id="mod_a16_girl_morrigan_dialog_1_8_txt">
+<text>Крамер, ты что боишься, что я украду у тебя твой артефакт? Ха-ха, рассмешил. Ну, давай уже глянем, что там да как. Ты зануда, знал об этом?</text>
+</string>
+<string id="mod_a16_girl_morrigan_dialog_1_888_txt">
+<text>Хорошо! Давай тогда глянем, что там за дверями.</text>
+</string>
+<string id="mod_a16_girl_morrigan_dialog_1_9_txt">
+<text>Дамы вперёд.</text>
+</string>
+
+<string id="mod_a16_leliana_rasskaz_o_sebe_dialog_0_txt">
+<text>%c[0,140,140,140]Расскажи о себе, Лелиана.</text>
+</string>
+<string id="mod_a16_leliana_rasskaz_o_sebe_dialog_1_txt">
+<text>Нет Крамер. Не хочу я рассказывать о себе... Прости уж.</text>
+</string>
+
+<string id="mod_a16_sold_rasskaz_o_sebe_dialog_0_txt">
+<text>%c[0,140,140,140]Расскажи о себе, Валентир.</text>
+</string>
+<string id="mod_a16_sold_rasskaz_o_sebe_dialog_1_txt">
+<text>Кхм... Рассказать о себе? Ну, обычный я солдатик. Вхожу вот в состав сопровождения и охраны экологов. Работаю параллельно и с научным институтом и с СБУ.</text>
+</string>
+
+<string id="mod_a16_morrigan_rasskaz_o_sebe_dialog_0_txt">
+<text>%c[0,140,140,140]Расскажи о себе, Морриган.</text>
+</string>
+<string id="mod_a16_morrigan_rasskaz_o_sebe_dialog_1_txt">
+<text>Хм-м... Крамер, что же мне тебе рассказать то? Я из научного института. Обычная девушка-эколог. Отвечаю за электронику, и прочую компьютерную рутину, понимаешь? Ай, забей!</text>
+</string>
+
+<string id="mod_a16_ecolog_1_rasskaz_o_sebe_dialog_0_txt">
+<text>%c[0,140,140,140]Профессор Соколов, расскажите о себе.</text>
+</string>
+<string id="mod_a16_ecolog_1_rasskaz_o_sebe_dialog_1_txt">
+<text>О себе? Ну, я работаю в научном институте. Являюсь одним из ключевых исследователей аномалий и аномальных образований там. Вот, решил отправиться лично в экспедицию, чтобы доставить артефакт "Инкубатор" в институт. И я очень рад, что именно с вами мне довелось посетить город Припять.</text>
+</string>
+
+<string id="mod_a16_ecolog_2_rasskaz_o_sebe_dialog_0_txt">
+<text>%c[0,140,140,140]Кириллов, расскажите о себе.</text>
+</string>
+<string id="mod_a16_ecolog_2_rasskaz_o_sebe_dialog_1_txt">
+<text>Да нечего мне рассказывать, Крамер. Медик я обычный, вроде бы, являюсь учёным. Эх... Из научного института... Хотя, если честно, немного увлекаюсь экспериментами, с различными аномальными образованиями, но это так, что-то, вроде хобби.</text>
+</string>
+
+<string id="mod_a16_ecolog_3_rasskaz_o_sebe_dialog_0_txt">
+<text>%c[0,140,140,140]Сербин, расскажите о себе.</text>
+</string>
+<string id="mod_a16_ecolog_3_rasskaz_o_sebe_dialog_1_txt">
+<text>Ну, техник я. Из научного института. А по совместительству учёный. Скучно мне там, на большой земле! А тут, и приключения, и техника разная осталась! Глядишь, что-нибудь интересное здесь да найду, хех!</text>
+</string>
+
+	<string id="mod_a16_ecolog_medic_need_health_care_0">
+		<text>Мне нужна медицинская помощь. %c[255,248,153,26]•</text>
+	</string>
+	<string id="mod_a16_ecolog_medic_need_health_care_1">
+		<text>Всегда рад помочь. Давай-ка посмотрим.</text>
+	</string>
+	<string id="mod_a16_ecolog_medic_need_health_care_111">
+		<text>Вот и всё! Ты полностью здоров.</text>
+	</string>
+	<string id="mod_a16_ecolog_medic_need_health_care_2">
+		<text>Сейчас посмотрим... Да, Крамер, дело совсем плохо! Хах... С вашим то здоровьем, разве что грибы в аномалиях собирать. Шучу, здоровье у вас: отличное.</text>
+	</string>
+	<string id="mod_a16_ecolog_medic_need_health_care_11">
+		<text>%c[0,140,140,140][..далее..]</text>
+	</string>	
+
+<string id="mod_a16_ecolog_give_tri_tasks_instruments_dialog_0_txt">
+<text>Слушай, мне хотелось бы починить да и модифицировать свои вещи.</text>
+</string>
+<string id="mod_a16_ecolog_give_tri_tasks_instruments_dialog_1_txt">
+<text>Да, понимаю тебя, Крамер. Вот только, мало чем помогу я тебе. Ведь связаны у меня руки... Инструментов у меня, как таковых, нормальных - нет. А тут и для грубой работы, и для тонкой и для калибровки нужны. Если найдёшь мне такие - будет тебе и починка и апгрейд по высшему уровню.</text>
+</string>
+
+<string id="mod_a16_ecolog_give_instrument_1_dialog_0_txt">
+<text>Держи. Принёс тебе инструменты для грубой работы.</text>
+</string>
+<string id="mod_a16_ecolog_give_instrument_2_dialog_0_txt">
+<text>Держи. Принёс тебе инструменты для тонкой работы.</text>
+</string>
+<string id="mod_a16_ecolog_give_instrument_3_dialog_0_txt">
+<text>Держи. Принёс тебе инструменты для калибровки.</text>
+</string>
+<string id="mod_a16_ecolog_give_instruments_dialog_2_txt">
+<text>Отлично, давай их сюда!</text>
+</string>
+
+<string id="mod_a16_stalker_ranen_dialog_start_0_txt">
+<text>Кажется... Я... Умираю...</text>
+</string>
+<string id="mod_a16_stalker_ranen_dialog_start_1_txt">
+<text>Держись. У нас тут медик имеется. Он тебе поможет. %c[255,248,153,26]•</text>
+</string>
+<string id="mod_a16_stalker_ranen_dialog_start_2_txt">
+<text>Ну и хрен с тобой. Умирай молча и не ной. %c[0,204,0,51]•</text>
+</string>
+
+<string id="mod_a16_ecolog_1_dialog_start_history_0_txt">
+<text>Я не понимаю, господин Крамер, кажется, все мертвы... Что же тут произошло?</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_1_txt">
+<text>Хм... Как я понял из записи ПДА: артефакт, за которым я вас сюда вёл - спёрли монолитовцы. Они же - всех тут и убили.</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_2_txt">
+<text>Ужас какой-то! Боже... Здесь... Здесь небезопасно! Но, нам очень нужен этот артефакт!</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_3_txt">
+<text>Профессор, я свою часть работы выполнил. Привёл вас в Припять, в местный, лагерь. Жду оплату и я пошёл.</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_4_txt">
+<text>Но, но как же так? Крамер, артефакта - нету! А на лагерь это уже совсем не похоже. Мы не можем здесь остава...</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_5_txt">
+<text>Какая мне разница? Моя работа - сделана. Жду свои деньги, профессор. Если вам нечего тут ловить, так и быть, вы можете рассчитывать на моё обратное сопровождение к окраинам Зоны.</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_6_txt">
+<text>Но, господин Крамер! Мы не можем уйти без артефакта! Научный институт всё вам возместит. Вот, это за вашу проделанную работу. Но позвольте предложить вам новое задание, ещё более оплачиваемое!</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_7_txt">
+<text>М? Так, это уже другое дело. Жду подробностей, хотя, погодите, уже догадываюсь... Вы хотите, чтоб я нашёл ваш грёбанный артефакт, так ведь?</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_8_txt">
+<text>Да, это так! Вы, весьма проницательны. Ой, это не сарказм, извините меня. Крамер, мы проделали сюда длинный и не лёгкий путь, и, возвращаться с пустыми руками прямо сейчас - нету сил и смысла, понимаете? ... Я свяжусь с нашими людьми, чтобы они прислали сюда людей. Ну и постараемся, восстановить этот лагерь. А вам, как проверенному человеку, я предлагаю новую, хорошую, работу.</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_9_txt">
+<text>Хорошо, я в деле. Уточните детали, раз уж я лично буду искать ваш артефакт. %c[255,1,255,255]•</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_10_txt">
+<text>Рад, очень рад, что мы нашли с вами общий язык, Крамер. Артефакт, за которым мы сюда прибыли - это неизвестный до этого нам: "инкубатор", мы решили, что назовём его именно так. Сталкеры, успели поделиться с нами видеоматериалами, доказывающими его способности. Не удивлюсь, если его происхождение находилось где-то в реакторе ЧАЭС. Скажу проще, по нашим теориям и по моим догадкам, кхм-кхм... с его помощью: можно было бы "запитать" целые города, заводы, улицы, возможно... страны. Боже мой, нужно лишь научиться им управлять! Я дам вам информацию доступную мне о нём. О том, как он выглядит и что из себя представляет. Увы, куда ушли эти похитители, как вы их назвали? А, да, точно, эти... монолитовцы, я не в силах и предположить. А уж причину, по которой они его украли тем более.</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_100_txt">
+<text>Хух, вы ведь пошутили так, да? Как от сердца отлегло, фу-уух... А вы шутник, господин Крамер! Ха-ха! Спасибо, я признателен, что мы всё-таки нашли с вами общий язык. Артефакт, за которым мы сюда прибыли - это неизвестный до этого нам: "инкубатор", мы решили, что назовём его именно так. Сталкеры, успели поделиться с нами видеоматериалами, доказывающими его способности. Не удивлюсь, если его происхождение находилось где-то в реакторе ЧАЭС. Скажу проще, по нашим теориям и по моим догадкам, кхм-кхм... с его помощью: можно было бы "запитать" целые города, заводы, улицы, возможно... страны. Боже мой, нужно лишь научиться им управлять! Я дам вам информацию доступную мне о нём. О том, как он выглядит и что из себя представляет. Увы, куда ушли эти похитители, как вы их назвали? А, да, точно, эти... монолитовцы, я не в силах и предположить. А уж причину, по которой они его украли тем более.</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_11_txt">
+<text>Так, суть задания была очевидна. Теперь, меня интересует сумма, за его выполнение.</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_12_txt">
+<text>Вы правы, стоило сразу обозначить вам цену... Деньги у нас имеются, а уж в нашем научном центре, спонсируемым крупными фирмами по всему миру, можно...</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_13_txt">
+<text>Профессор Соколов, вы слишком тянете. Сколько?</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_14_txt">
+<text>Да-да... Простите, что-то меня занесло! Полмиллиона рублей. Лично, вам, в руки. Как вам такое?</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_15_txt">
+<text>А на миллион, что, не потянет? %c[255,248,153,26]•</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_155_txt">
+<text>Да. Солидная сумма. Я заинтересован. %c[255,1,255,255]•</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_16_txt">
+<text>О боже, а правду ведь о вас говорят. Вы - человек очень серьёзный... Кхм, любой бы на вашем месте уже прыгал от счастья, услышав такую сумму. Но, вы правы, хорошо, я-я, обсужу этот вопрос с коллегами и, скажем так: в зависимости от качества и скорости выполнения вашей работы, мы докинем вам сверху две-три, а может и четыре сотни тысяч. Как вам, такие условия?</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_166_txt">
+<text>Да, господин Крамер. К тому же, в зависимости от качества и скорости выполнения вашей работы, мы докинем вам сверху ещё тысяч сто, может и больше! Как вам, такие условия?</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_17_txt">
+<text>Хорошо. Тогда я начнинаю приступать к работе.</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_18_txt">
+<text>Хорошо, господин Крамер! Очень хорошо! Надеюсь, что вы быстро управитесь... Буду с нетерпением ждать от вас любой информации по этому поводу. Мы постараемся как можно быстрее выпросить новую охрану для этой Прачечной. Думаю, здесь станет намного уютнее и безопаснее.</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_19_txt">
+<text>Вас понял. Я пошёл.</text>
+</string>
+
+<string id="mod_a16_ecolog_1_dialog_start_history_199_txt">
+<text>Нет профессор. Я отказываюсь, уж простите. %c[0,204,0,51]•</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_299_txt">
+<text>Что? Но... Но! ... Я разочарован в вас, Крамер. Вы, поступаете очень плохо... Вы ВЕДЬ могли внести очень серьёзный вклад в развитие всего мира! Я, так на вас надеялся... Уходите. Дальше - мы сами.</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_499_txt">
+<text>Ладно-ладно. Профессор, ну не горячитесь. Я в деле. %c[255,1,255,255]•</text>
+</string>
+<string id="mod_a16_ecolog_1_dialog_start_history_399_txt">
+<text>Не обессудьте, но вы идиоты. %c[0,204,0,51]•</text>
+</string>
+
+</string_table>
