@@ -1,0 +1,17 @@
+- [x] ui_st_screen.xml
+- [ ] st_dialog_manager.xml
+- [ ] st_dialogs.xml
+- [ ] st_land_names.xml
+- [ ] st_quests_general.xml
+- [ ] ui_st_keybinding.xml
+- [ ] ui_st_pda.xml
+- [ ] st_dialogs_mod.xml
+- [ ] st_items_artefacts.xml
+- [ ] st_mm_mod_credits.xml
+- [ ] st_quests_pripyat.xml
+- [ ] ui_st_mm.xml
+- [ ] st_dialogs_pripyat.xml
+- [ ] st_items_quest.xml
+- [ ] st_mm_mod_say_message_sms.xml
+- [ ] ui_st_credits.xml
+- [ ] ui_st_other.xml
