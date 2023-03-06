@@ -1,12 +1,15 @@
 ## Прогрес
 
-(ok - перекладено, 0 - не перекладено, число - номер останнього рядку, який перекладено)
+`ok` - перекладено
+`re` - потребує перегляду
+`0` - не перекладено, 
+число - номер останнього рядку, який перекладено
 
 - [x] ui_st_screen.xml `ok`
 - [x] st_items_artefacts.xml `ok`
-- [ ] st_dialog_manager.xml `52`
+- [ ] st_dialogs_mod.xml `re`
+- [ ] st_dialog_manager.xml `228`
 - [ ] st_dialogs.xml `0`
-- [ ] st_dialogs_mod.xml `0`
 
 - [ ] st_land_names.xml `0`
 - [ ] st_quests_general.xml `0`
