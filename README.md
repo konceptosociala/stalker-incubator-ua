@@ -1,17 +1,22 @@
-- [x] ui_st_screen.xml
-- [ ] st_dialog_manager.xml
-- [ ] st_dialogs.xml
-- [ ] st_land_names.xml
-- [ ] st_quests_general.xml
-- [ ] ui_st_keybinding.xml
-- [ ] ui_st_pda.xml
-- [ ] st_dialogs_mod.xml
-- [ ] st_items_artefacts.xml
-- [ ] st_mm_mod_credits.xml
-- [ ] st_quests_pripyat.xml
-- [ ] ui_st_mm.xml
-- [ ] st_dialogs_pripyat.xml
-- [ ] st_items_quest.xml
-- [ ] st_mm_mod_say_message_sms.xml
-- [ ] ui_st_credits.xml
-- [ ] ui_st_other.xml
+## Прогрес
+
+(ok - перекладено, 0 - не перекладено, число - номер останнього рядку, який перекладено)
+
+- [x] ui_st_screen.xml `ok`
+- [ ] st_dialog_manager.xml `25`
+- [ ] st_dialogs.xml `0`
+- [ ] st_dialogs_mod.xml `0`
+- [ ] st_dialogs_pripyat.xml `0`
+
+- [ ] st_land_names.xml `0`
+- [ ] st_quests_general.xml `0`
+- [ ] ui_st_keybinding.xml `0`
+- [ ] ui_st_pda.xml `0`
+- [ ] st_items_artefacts.xml `0`
+- [ ] st_mm_mod_credits.xml `0`
+- [ ] st_quests_pripyat.xml `0`
+- [ ] ui_st_mm.xml `0`
+- [ ] st_items_quest.xml `0`
+- [ ] st_mm_mod_say_message_sms.xml `0`
+- [ ] ui_st_credits.xml `0`
+- [ ] ui_st_other.xml `0`
