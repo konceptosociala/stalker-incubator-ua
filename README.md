@@ -11,12 +11,12 @@
 - [x] st_quests_general.xml `ok`
 - [x] ui_st_credits.xml `ok`
 - [x] st_mm_mod_say_message_sms.xml `ok`
-- [ ] st_dialogs_mod.xml `re`
+- [ ] st_mm_mod_credits.xml `re`
+- [ ] st_dialogs_mod.xml `re` `50/1982`
 - [ ] st_dialog_manager.xml `400/1011`
 - [ ] st_dialogs.xml `0/987`
 - [ ] ui_st_keybinding.xml `0/229`
 - [ ] ui_st_pda.xml `0/296`
-- [ ] st_mm_mod_credits.xml `0/102`
 - [ ] st_quests_pripyat.xml `0/771`
 - [ ] ui_st_mm.xml `0/967`
 - [ ] st_items_quest.xml `0/560`

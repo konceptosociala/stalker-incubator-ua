@@ -2,23 +2,23 @@
 <string_table>
 
     <string id="st_und_mod_b900_good_end_1_kramer_sound_text_1">
-		<text>Мы спрятали артефакт в подземелье... Что я сделал с этими наёмниками - я так и не понял.</text>
+		<text>Ми сховали артефакт в підземці... Що я зробив з цими найманцями - я так і не зрозумів.</text>
 	</string>
     <string id="st_und_mod_b900_good_end_1_kramer_sound_text_2">
-		<text>А Ремарк - просто исчез... Будто бы его и не было никогда.</text>
+		<text>А Ремарк - просто зник... Наче його і не було ніколи.</text>
 	</string>	
     <string id="st_und_mod_b900_good_end_1_kramer_sound_text_3">
-		<text>Мне не кажется и... внутри меня что-то, или кто-то есть... Я в этом уверен.</text>
+		<text>Мені не здається і... в мені щось, чи хтось є... Я в цьому впевнений.</text>
 	</string>
     <string id="st_und_mod_b900_good_end_1_kramer_sound_text_3_4">
-		<text>Чёрт... кажется, я начинаю сходить с ума.</text>
+		<text>Чорт... здається, я починаю сходити с розуму.</text>
 	</string>	
 
     <string id="st_mod_subtitres_show_vivient_team_text">
 		<text>Vivient-Team</text>
 	</string>
     <string id="st_mod_subtitres_show_vivient_team_text_2">
-		<text>S.T.A.L.K.E.R. - Инкубатор</text>
+		<text>S.T.A.L.K.E.R. - Інкубатор</text>
 	</string>	
 	
     <string id="st_mod_subtitres_show_vivient_mod">
@@ -26,76 +26,76 @@
 	</string>
 
 	<string id="st_mod_chapter_5_good_end_1_func">
-		<text>Глава X. «Вспомнить всё».</text>
+		<text>Розділ X. «Згадати все».</text>
 	</string>	
 
 	<string id="st_mod_chapter_5_good_dop_end_1_func">
-		<text>Глава 5. «Голос в голове».</text>
+		<text>Розділ 5. «Голос в голові».</text>
 	</string>	
 	<string id="st_mod_chapter_5_bad_end_1_func">
-		<text>Глава 5. «Прах к праху».</text>
+		<text>Розділ 5. «Порох до праху».</text>
 	</string>	
 
 	<string id="st_mod_chapter_4_func">
-		<text>Глава 4. «Стоит ли игра свеч?»</text>
+		<text>Розділ 4. «Чи варта гра свічок?»</text>
 	</string>	
 	<string id="st_mod_chapter_333_func">
-		<text>Глава 3. «Весь мир как на ладони»</text>
+		<text>Розділ 3. «Весь світ як на долоні»</text>
 	</string>	
 	<string id="st_mod_chapter_2_func">
-		<text>Глава 2. «Я худший друг, я лучший враг»</text>
+		<text>Розділ 2. «Я найгірший друг, я найкращий ворог»</text>
 	</string>
 	<string id="st_mod_chapter_1_func">
-		<text>Глава 1. «Обстоятельства не выбирают»</text>
+		<text>Розділ 1. «Обставини не вибирають»</text>
 	</string>
 
     <string id="st_stuff_mod">
-		<text>Создатели мода</text>
+		<text>Творці мода</text>
 	</string>
     <string id="st_producer_mods">
 		<text>VIVIENT-MODS</text>
 	</string>
 	
     <string id="st_name_mod_eee">
-		<text>• S.T.A.L.K.E.R. - ИНКУБАТОР •\nX-RAY COP (1.6.02)</text>
+		<text>• S.T.A.L.K.E.R. - ІНКУБАТОР •\nX-RAY COP (1.6.02)</text>
 	</string>
 	
     <string id="st_modmaker">
-		<text>4ECTOR - Режиссер-продюсер.\nMayLay - Движок, погода, эффекты.</text>
+		<text>4ECTOR - Режисер-продюсер.\nMayLay - Двигун, погода, ефекти.</text>
 	</string>
 	
     <string id="st_sound_actors">
-		<text>Актёры озвучки:</text>
+		<text>Актори озвучки:</text>
 	</string>
     <string id="st_sound_actors_2">
-		<text>•\nОлег Коренев (HelgardRay)\nОлег Кузьма (слесарь 6 разряда)\nПолина (PollyVader)\nАртём К. (LucioTraum)\nНаталья Алейникова\nGeorge_Marshall\nНикита (NikStrelok)\nSeeFuck\nРиддлер-Сталкер Энигма\nAlien\nВлад Чекторов (4ECTOR)\n•\n| SKETYFACE - (муз.сопровождение/меню/амбиенты) |</text>
+		<text>•\nОлег Коренев (HelgardRay)\nОлег Кузьма (слесарь 6 разряда)\nПоліна (PollyVader)\nАртем К. (LucioTraum)\nНаталя Олійникова\nGeorge_Marshall\nМикита (NikStrelok)\nSeeFuck\nРиддлер-Сталкер Енігма\nAlien\nВлад Чекторов (4ECTOR)\n•\n| SKETYFACE - (муз.супровід/меню/амбієнти) |</text>
 	</string>	
 	
     <string id="st_mod_narabotki_1">
-		<text>Благодарность за\nучастие|контент|помощь:</text>
+		<text>Вдячність за\nучасть|контент|допомогу:</text>
 	</string>		
     <string id="st_mod_narabotki_2">
 		<text>• Greshnik13rs •\n• Den-Stash •\n• Ninja_Nub[NOR] •\n• Angry Wolf •\n• Артём Банников •\n• makar •\n• aaz •\n• Крим •\n• Gefos •\n• ABSOLUTE NATURE 4 •\n• Emmis •\n• Дизель •\n• Azetrix •\n• One_Shot •\n• S.W.R.P •\n• 3fallout3 •\n• loner •\n• DanteZ •\n• Nestandart_5443 •\n• makdm •\n• Бармен •\n• Phantom_86 •\n• ferr-um •\n• Viktor •\n• Shennondoah •\n• 3vtiger •\n• Demosfen •\n• Sin! •\n• August Autumn •\n• Егерь С Двустволкой •\n• Salem •\n• owlromeo •\n• Over Media •\n• lehnov1986 •\n• Crazy Stalker •</text>
 	</string>	
 
 	<string id="st_und_mod_b900_true_outro_mod_game_txt">
-		<text>Крамер покинул Зону отчуждения.\nК несчастью, на большой земле: долго он не продержался.\nПроблемы с головой прогрессировали, и в конце концов - он не выдержал и покончил с жизнью.\nОн постоянно твердил о каком-то Ремарке.\nКрамер - всё сделал правильно.\nУчёные так и не получили артефакт «Инкубатор», это и спасло всё человечество.</text>
+		<text>Крамер покинув Зону відчуження.\nНа жаль, на великій землі: довго він не протримався.\nПроблеми з головою прогресували, і в кінці кінців - він не витримав і покінчив з життям.\nВін постійно твердив про  якогось Ремарка.\nКрамер - все зробив правильно.\nВчені так і не отримали артефакт «Інкубатор», це і врятувало все людство.</text>
 	</string>
 	
 	<string id="st_false_outro_mod_game_txt">
-		<text>Крамер покинул Припять.\nНо, спустя какое-то время, его труп нашли в окрестностях РЛС - «Купол»...\nВ зоне случился невероятной силы - взрыв:\nПричины которого произошли от некого ранее неизвестного артефакта - «Инкубатор».\nВсе кто находился в центре Зоны, погибли сразу.\nЧерез несколько дней, пострадал и весь мир. Начались внезапные катаклизмы, влекущие за собой разрушения и уничтожения всего живого вокруг.</text>
+		<text>Крамер покинув Прип'ять.\nАле, через деякий час, його труп знайшли в околицях РЛС - «Купол»...\nВ зоні трапився неймовірної сили - вибух:\nПричини якого виникли від деякого раніше невідомого артефакта - «Інкубатор».\nВсі хто знаходився в центрі Зони, померли відразу.\nЧерез декілька днів, постраждав і весь світ. Почались раптові катаклізми, що тягнуть за собою руйнування і знищення всього живого навкруги.</text>
 	</string>
 	
 	<string id="st_mod_p80_bad_end_kramer_say_outro_txt">
-		<text>Вот же ирония... \nЯ столько раз - попадал под пули. \nСтолько раз - смотрел смерти в глаза... \nСтолько видел...\nСтолько узнал и... что теперь!?\nУмру, от какой-то шальной пули?\nРади... Ради чего тогда - всё это?</text>
+		<text>Ось іронія... \nЯ стільки разів - попадав під кулі. \nСтільки разів - дивився смерті в очі... \nСтільки бачив...\nСтільки дізнався і... що тепер!?\nПомру, від якоїсь шаленої кулі?\nЗаради... Заради чого тоді - все це?</text>
 	</string>	
 	
 	<string id="st_outro_mod_game_txt">
-		<text>Конец.</text>
+		<text>Кінець.</text>
 	</string>	
 
 	<string id="st_good_love_outro_mod_game_txt">
-		<text>Крамер и Морриган покинули Зону.\nПоговаривают, что они неплохо ладили... Что с ними случилось, наверняка - никто не знает.\nНо, со слов очевидцев:\nОни колесили по миру и отдыхали на полную.\n"Выписывая параболу, на одном из полушарий нашей планеты!"</text>
+		<text>Крамер і Морриган покинули Зону.\nГоворять, що вони непогано ладнали... Що з ними трапилось, напевно - ніхто не знає.\nАле, зі слів очевидців:\nВони колесили по світу і відпочивали по повній.\n"Виписуючи параболу, на одному з полушарів нашої  планети!"</text>
 	</string>
 	
 </string_table>
