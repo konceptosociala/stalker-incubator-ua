@@ -15,7 +15,7 @@
 - [x] ui_st_pda.xml `ok`
 - [x] ui_st_other.xml `ok`
 - [ ] st_dialogs_mod.xml `re` `50/1982`
-- [ ] st_dialog_manager.xml `600/1011`
+- [ ] st_dialog_manager.xml `700/1011`
 - [ ] st_dialogs.xml `0/987`
 - [ ] ui_st_keybinding.xml `0/229`
 - [ ] st_quests_pripyat.xml `0/771`
