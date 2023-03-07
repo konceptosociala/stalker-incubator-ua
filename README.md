@@ -9,6 +9,8 @@
 - [x] st_items_artefacts.xml `ok`
 - [x] st_land_names.xml `ok`
 - [x] st_quests_general.xml `ok`
+- [x] ui_st_credits.xml `ok`
+- [ ] st_mm_mod_say_message_sms.xml `re`
 - [ ] st_dialogs_mod.xml `re`
 - [ ] st_dialog_manager.xml `400/1011`
 - [ ] st_dialogs.xml `0/987`
@@ -18,8 +20,6 @@
 - [ ] st_quests_pripyat.xml `0/771`
 - [ ] ui_st_mm.xml `0/967`
 - [ ] st_items_quest.xml `0/560`
-- [ ] st_mm_mod_say_message_sms.xml `0/349`
-- [ ] ui_st_credits.xml `0/687`
 - [ ] ui_st_other.xml `0/630`
 
 ### З оригіналу
