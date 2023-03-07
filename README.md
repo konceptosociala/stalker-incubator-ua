@@ -10,7 +10,7 @@
 - [x] st_land_names.xml `ok`
 - [x] st_quests_general.xml `ok`
 - [x] ui_st_credits.xml `ok`
-- [ ] st_mm_mod_say_message_sms.xml `re`
+- [x] st_mm_mod_say_message_sms.xml `ok`
 - [ ] st_dialogs_mod.xml `re`
 - [ ] st_dialog_manager.xml `400/1011`
 - [ ] st_dialogs.xml `0/987`
