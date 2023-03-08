@@ -4,10 +4,10 @@
 		<text>КПК</text>
 	</string>
 	<string id="kb_alife_command">
-		<text>Приказ атаковать</text>
+		<text>Наказ атакувати</text>
 	</string>
 	<string id="kb_always_run">
-		<text>Шаг</text>
+		<text>Крок</text>
 	</string>
 	<string id="kb_artefact">
 		<text>Артефакт</text>
@@ -16,7 +16,7 @@
 		<text>Назад</text>
 	</string>
 	<string id="kb_binoculars">
-		<text>Бинокль</text>
+		<text>Бінокль</text>
 	</string>
 	<string id="kb_buy_menu">
 		<text>Меню покупки</text>
@@ -25,19 +25,19 @@
 		<text>Чат</text>
 	</string>
 	<string id="kb_chat_team">
-		<text>Командный чат</text>
+		<text>Командний чат</text>
 	</string>
 	<string id="kb_console">
 		<text>Консоль</text>
 	</string>
 	<string id="kb_contacts">
-		<text>Контакты в КПК</text>
+		<text>Контакти в КПК</text>
 	</string>
 	<string id="kb_crouch">
-		<text>Присесть</text>
+		<text>Присісти</text>
 	</string>
 	<string id="kb_crouch_toggle">
-		<text>Постоянно присев</text>
+		<text>Постійний присід</text>
 	</string>
 	<string id="kb_detector">
 		<text>Детектор</text>
@@ -46,64 +46,64 @@
 		<text>Вниз</text>
 	</string>
 	<string id="kb_drop">
-		<text>Выложить</text>
+		<text>Викласти</text>
 	</string>
 	<string id="kb_fire">
-		<text>Огонь</text>
+		<text>Вогонь</text>
 	</string>
 	<string id="kb_firemode_next">
-		<text>Режим стрельбы след.</text>
+		<text>Режим стрільби наст.</text>
 	</string>
 	<string id="kb_firemode_prev">
-		<text>Режим стрельбы пред.</text>
+		<text>Режим стрільби поперед.</text>
 	</string>
 	<string id="kb_forward">
-		<text>Вперёд</text>
+		<text>Вперед</text>
 	</string>
 	<string id="kb_func">
-		<text>Подствольник</text>
+		<text>Підствольник</text>
 	</string>
 	<string id="kb_grp_common">
-		<text>Общее</text>
+		<text>Загальне</text>
 	</string>
 	<string id="kb_grp_direction">
-		<text>Направление</text>
+		<text>Напрямок</text>
 	</string>
 	<string id="kb_grp_inventory">
 		<text>Рюкзак</text>
 	</string>
 	<string id="kb_grp_movement">
-		<text>Движение</text>
+		<text>Рух</text>
 	</string>
 	<string id="kb_grp_multiplayer">
-		<text>Сетевая игра</text>
+		<text>Мережева гра</text>
 	</string>
 	<string id="kb_grp_weapons">
-		<text>Оружие</text>
+		<text>Зброя</text>
 	</string>
 	<string id="kb_inventory">
 		<text>Рюкзак</text>
 	</string>
 	<string id="kb_jump">
-		<text>Прыжок</text>
+		<text>Стрибок</text>
 	</string>
 	<string id="kb_left">
-		<text>Влево</text>
+		<text>Вліво</text>
 	</string>
 	<string id="kb_left_lookout">
-		<text>Выглянуть влево</text>
+		<text>Визирнути вліво</text>
 	</string>
 	<string id="kb_left_strafe">
-		<text>Шаг влево</text>
+		<text>Крок вліво</text>
 	</string>
 	<string id="kb_map">
 		<text>Карта в КПК</text>
 	</string>
 	<string id="kb_next_slot">
-		<text>Оружие из следующего слота</text>
+		<text>Зброя з наступного слоту</text>
 	</string>
 	<string id="kb_night_vision">
-		<text>Прибор ночного видения</text>
+		<text>Прилад нічного бачення</text>
 	</string>
 	<string id="kb_pause">
 		<text>Пауза</text>
@@ -112,117 +112,117 @@
 		<text>КПК</text>
 	</string>
 	<string id="kb_prev_slot">
-		<text>Оружие из предыдущего слота</text>
+		<text>Зброя з попереднього слоту</text>
 	</string>
 	<string id="kb_quit">
-		<text>Выход</text>
+		<text>Вихід</text>
 	</string>
 	<string id="kb_reload">
-		<text>Перезарядить</text>
+		<text>Перезарядити</text>
 	</string>
 	<string id="kb_repair">
-		<text>Починить</text>
+		<text>Полагодити</text>
 	</string>
 	<string id="kb_right">
 		<text>Вправо</text>
 	</string>
 	<string id="kb_right_lookout">
-		<text>Выглянуть вправо</text>
+		<text>Визирнути вправо</text>
 	</string>
 	<string id="kb_right_strafe">
-		<text>Шаг вправо</text>
+		<text>Крок праворуч</text>
 	</string>
 	<string id="kb_scores">
 		<text>Очки</text>
 	</string>
 	<string id="kb_screenshot">
-		<text>Скриншот</text>
+		<text>Скріншот</text>
 	</string>
 	<string id="kb_skin_menu">
-		<text>Меню выбора модели</text>
+		<text>Меню вибору моделі</text>
 	</string>
 	<string id="kb_sprint">
-		<text>Бег</text>
+		<text>Біг</text>
 	</string>
 	<string id="kb_team_menu">
-		<text>Меню выбора команды</text>
+		<text>Меню вибору команди</text>
 	</string>
 	<string id="kb_torch">
-		<text>Фонарик</text>
+		<text>Ліхтарик</text>
 	</string>
 	<string id="kb_knife_quick">
-		<text>Быстрый удар ножом</text>
+		<text>Швидкий удар ножем</text>
 	</string>
 	<string id="kb_turn_engine">
-		<text>Включить</text>
+		<text>Увімкнути</text>
 	</string>
 	<string id="kb_up">
-		<text>Вверх</text>
+		<text>Вгору</text>
 	</string>
 	<string id="kb_use">
-		<text>Использовать</text>
+		<text>Використовувати</text>
 	</string>
 	<string id="kb_use_bandage">
-		<text>Быстр. использование бинта</text>
+		<text>Швид. використання бинта</text>
 	</string>
 	<string id="kb_use_medkit">
-		<text>Быстр. использование аптечки</text>
+		<text>Швид. використання аптечки</text>
 	</string>
 	<string id="kb_vote_begin">
-		<text>Начать голосование</text>
+		<text>Почати голосування</text>
 	</string>
 	<string id="kb_vote_menu">
-		<text>Проголосовать</text>
+		<text>Проголосувати</text>
 	</string>
 	<string id="kb_vote_no">
-		<text>Проголосовать «Нет»</text>
+		<text>Проголосувати «Ні»</text>
 	</string>
 	<string id="kb_vote_yes">
-		<text>Проголосовать «Да»</text>
+		<text>Проголосувати «Так»</text>
 	</string>
 	<string id="kb_weapon1">
-		<text>Оружие 1</text>
+		<text>Зброя 1</text>
 	</string>
 	<string id="kb_weapon2">
-		<text>Оружие 2</text>
+		<text>Зброя 2</text>
 	</string>
 	<string id="kb_weapon3">
-		<text>Оружие 3</text>
+		<text>Зброя 3</text>
 	</string>
 	<string id="kb_weapon4">
-		<text>Оружие 4</text>
+		<text>Зброя 4</text>
 	</string>
 	<string id="kb_weapon5">
-		<text>Оружие 5</text>
+		<text>Зброя 5</text>
 	</string>
 	<string id="kb_weapon6">
-		<text>Оружие 6</text>
+		<text>Зброя 6</text>
 	</string>
 	<string id="kb_wpn_next">
-		<text>Сменить тип патронов</text>
+		<text>Змінити тип патронів</text>
 	</string>
 	<string id="kb_wpn_prev">
-		<text>Предыдущее оружие этого типа</text>
+		<text>Попередня зброя цього типу</text>
 	</string>
 	<string id="kb_zoom">
-		<text>Приблизить</text>
+		<text>Наблизити</text>
 	</string>
 	<string id="speech_menu_group">
-		<text>Голосовые сообщения (1)</text>
+		<text>Голосові повідомлення (1)</text>
 	</string>
 	<string id="speech_menu_personal">
-		<text>Голосовые сообщения (2)</text>
+		<text>Голосові повідомлення (2)</text>
 	</string>
 	<string id="kb_quick_use_1">
-		<text>Ячейка быстрого доступа 1</text>
+		<text>Комірка швидкого доступу 1</text>
 	</string>
 	<string id="kb_quick_use_2">
-		<text>Ячейка быстрого доступа 2</text>
+		<text>Комірка швидкого доступу 2</text>
 	</string>
 	<string id="kb_quick_use_3">
-		<text>Ячейка быстрого доступа 3</text>
+		<text>Комірка швидкого доступу 3</text>
 	</string>
 	<string id="kb_quick_use_4">
-		<text>Ячейка быстрого доступа 4</text>
+		<text>Комірка швидкого доступу 4</text>
 	</string>
 </string_table>
