@@ -16,8 +16,8 @@
 - [x] ui_st_other.xml `ok`
 - [x] st_dialog_manager.xml `ok`
 - [x] ui_st_keybinding.xml `ok`
-- [ ] st_items_quest.xml `296/560`
 - [ ] st_dialogs_mod.xml `re` `700/1982`
+- [ ] st_items_quest.xml `300/560`
 - [ ] st_dialogs.xml `0/987`
 - [ ] st_quests_pripyat.xml `0/771`
 - [ ] ui_st_mm.xml `0/967`
